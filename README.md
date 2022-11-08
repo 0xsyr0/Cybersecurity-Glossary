@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="300" height="300" src="https://github.com/0xsyr0/Cybersecurity-Glossary/blob/master/images/glossary.png">
+</p>
+
 # Cybersecurity-Glossary
 
 A summary of the most abbreviations I encountered so far. Feel free to contribute via `Pull request`.
