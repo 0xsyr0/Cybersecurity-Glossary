@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img width="300" height="300" src="https://github.com/0xsyr0/Cybersecurity-Glossary/blob/main/images/glossary.png">
 </p>
 
