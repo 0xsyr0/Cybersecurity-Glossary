@@ -15,12 +15,15 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | AES | Advanced Encryption Standard |
 | AH | Authentication Header |
 | AMQP | Advanced Message Query Protocol |
+| API | Application Programming Interface |
 | APIPA | Automatic Pricate IP Addressing |
+| APT | Advanced Persistent Threat | 
 | ARP | Address Resolution Protocol |
 | ASLR | Address Space Layout Randomization |
 | ASVS | Application Security Verification System |
 | ATM | Asynchronous Transfer Mode |
 | AuthPF | Authentication Packet Filter |
+| AV | Antivirus |
 | BFP | Berkeley Packet Filter |
 | BGP | Border Gateway Protocol |
 | BLOB | Binary Large Object |
@@ -28,6 +31,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CAPTCHA | Completely Automated Public Turing Test to tell Computers and Humans appart |
 | CASB | Cloud Access Security Broker |
 | CBC | cypher Block Chaining |
+| CBC-MAC | Cipher Block Chaining Message Authentication Code | 
 | CHAP | Challenge-Handshake Authentication Protocol |
 | CI/CD | Continuous Integration / Continuous Delivery |
 | CIFS | Commin Internet File System |
@@ -46,10 +50,12 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CWE | Common Weakness Enumeration |
 | DCOM | Distributed Component Object Model |
 | DDNS / DynDNS | Dynamic Domain Name System |
+| DDoS | Distributed Denial of Service |
 | DEP | Data Exection Protection |
 | DEP | Data Execution Prevention |
 | DIG | Domain Information Groper |
 | DKIM | Domain Key Identified Mail |
+| DLP | Data Loss Prevention |
 | DMARC | Domain-Based Message Authentication Reporting and Conformance |
 | DNSBL | Domain Name System-Based Blackhole List |
 | DNS | Domain Name System |
@@ -78,6 +84,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ECDH | Elliptic Curve Diffie-Hellmann |
 | ECDSA | Elliptic Curve Digitial Signature Algorithm |
 | ECP | Encryption Control Protocol |
+| EDR | Endpoint Detection and Response  |
 | EIGRP |  Enhanced Interior Gateway Routing Protocol |
 | EIP | Extended Instruction Pointer |
 | ELF | Executable and Linkable Format |
@@ -115,9 +122,11 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | HSRP | Host Standby Router Protocol |
 | HSTS | HTTP Strict Transport Security |
 | HTML | Hypertext Markup Language |
+| IAM | Identity and access management |
 | iBGP | Internal Borde Gateway Protocol |
 | ICMP | Internet Control Message Protocol |
 | IDOR | Insecure Direct Object Reference |
+| IDS | Intrusion Detection System |
 | IGMP | Internet Group Management Protocol |
 | IGRP | Interior Gateway Routing |
 | IKE | Internet Key Exchange |
@@ -127,6 +136,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | IPC | Inter-Process Communication |
 | IPFIX | Internet Protocol Flow Information Export |
 | IP | Internet Protocol |
+| IPS | Intrusion Prevention System |
 | ISAMKP | Internet Security Association and Key Management Protocol |
 | IS-IS | Intermediate System to Intermediate System |
 | KASLR | Kernel Address Space Layout Randomization |
@@ -225,6 +235,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SSDT | Secondary System Descriptor Tables |
 | SSI | Server Side Includes |
 | SSL | Secure Socket Layer |
+| SSO | Single Sign-On |
 | SSOT | Single Source of Truth |
 | SSPR | Self-Service Password Reset |
 | SSRF | Server-Side Request Forgery |
@@ -256,6 +267,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | WPAD | Web Proxy Auto-Discovery |
 | WPA | Wi-Fi Protected Access |
 | XDP | Express Data Path |
+| XDR | Extended Detection and Response  |
 | XSLT | Extensible Stylesheet Language Transformation |
 | XSS | Cross-Site Scripting |
 | XXE | XML External Entity |
