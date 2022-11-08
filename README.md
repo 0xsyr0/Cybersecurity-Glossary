@@ -165,7 +165,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | NAK | Negative Acknowledgement |
 | NFC | Near-Field Communication |
 | NFS | Network File System |
-| NGAV | Next-Generation AntiVirus |
+| NGAV | Next-Generation Antivirus |
 | NGE | Next Generation Encryption |
 | NGFW | Next-Generation Firewall |
 | NIST | National Institute of Standards and Technology |
