@@ -15,48 +15,65 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ACLE | Account Life Cycle Events |
 | ACME | Automated Certificate Management Environment |
 | ACPI | Advanced Configuration and Power Interface |
+| ADDS | Active Directory Domain Service |
 | AES | Advanced Encryption Standard |
 | AH | Authentication Header |
 | AMQP | Advanced Message Query Protocol |
+| ANSI | American National Standards Institute |
+| ANSI | Antimalware Scan Interface |
 | API | Application Programming Interface |
 | APIPA | Automatic Pricate IP Addressing |
 | APT | Advanced Packaging Tool |
-| APT | Advanced Persistent Threat | 
+| APT | Advanced Persistent Threat |
 | ARP | Address Resolution Protocol |
 | ASLR | Address Space Layout Randomization |
 | ASVS | Application Security Verification System |
 | ATM | Asynchronous Transfer Mode |
 | ATT | App Tracking Transparency |
+| ATT&CK | Adversarial Tactics, Techniques, and Common Knowledge |
 | AuthPF | Authentication Packet Filter |
 | AV | Antivirus |
 | AV | Attack Vector |
+| AXFR | DNS Zone Transfer / DNS Query Type |
+| BEC | Business Email Compromise |
 | BFP | Berkeley Packet Filter |
 | BGP | Border Gateway Protocol |
+| BIOC | Behavioral Indicator of Compromise |
+| BITS | Background Intelligence Transfer Service |
 | BLOB | Binary Large Object |
 | BSS | Base Service Set |
 | C2 | Command and Control |
 | C4 | Customizable Command and Control Center |
+| CAM | Content Addressable Memory |
 | CAPTCHA | Completely Automated Public Turing Test to tell Computers and Humans appart |
 | CASB | Cloud Access Security Broker |
 | CBC | cypher Block Chaining |
 | CBC-MAC | Cipher Block Chaining Message Authentication Code | 
 | CBSP | Cloud-Based Security Provider |
 | C | Confidentiality |
+| CDC | Cyber Defense Center |
 | CDN | Content Delivery Network |
+| CDP | Certificate Distribution Point |
 | CEH | Certified Ethical Hacker |
+| CERT | Computer Emergency Response Team |
 | CFP | Call for Papers |
 | CHAP | Challenge-Handshake Authentication Protocol |
+| CIA | Confidentiality, Integrity, Availability |
 | CI/CD | Continuous Integration / Continuous Delivery |
 | CIFS | Commin Internet File System |
 | CMMI | Mellon Capability Maturity Model |
 | CNCF | Cloud Native Computing Foundation |
 | CN | Change Notice |
 | COLO | Co-Location |
+| COM | Computer Object Model |
 | CONOPS | Concept of Operations |
 | CPRS | Cross Origin Resource Sharing |
+| CRC | Code Ready Containers |
 | CRI | Container Runtime Interface |
-| CRLE | Carriage Return Line Feed |
 | CRLF | Carriage Return Line Feed |
+| CRUD | Create, Read, Update, Delete |
+| CSAF | Common Security Advisory Framework |
+| CSIRT | Computer Security Incident Response Team |
 | CSMA/CD | Carrier Sense Multiple Access/Collision Detection |
 | CSP | Content Security Policy |
 | CSPM | Cloud Security Posture Management |
@@ -64,29 +81,37 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CTA | Czberroam Transparent Authentication |
 | CTAP | Client to Authenticator Protocol |
 | CVE | Common Vulnerabilities and Exposures |
-| CVSS | Common Vulnerabilitiy Scoring System |
+| CVRF | Common Vulnerability Reporting Framework |
 | CVSS | Common Vulnerability Scoring System |
 | CWE | Common Weakness Enumeration |
+| DAAS | Data, Assets, Applications and Services |
+| DACL | Discretionary Access Control List |
+| DAD | Destruction, Alteration, Disclosure |
+| DAPP | Decentralized Applications |
 | DCIM | Data Center Infrasctructure Management |
 | DCOM | Distributed Component Object Model |
 | DDNS / DynDNS | Dynamic Domain Name System |
 | DDoS | Distributed Denial of Service |
-| DEP | Data Exection Protection |
+| DEFI | Decentralized Finance |
 | DEP | Data Execution Prevention |
 | DES | Data Encryption Standard |
 | DFIR | Digital Forensics Incident Response |
+| DHCP | Dynamic Host Configuration Protocol |
 | DIG | Domain Information Groper |
-| DKIM | Domain Key Identified Mail |
+| DKIM | DomainKeys Identified Mail |
 | DLP | Data Loss Prevention |
-| DMARC | Domain-Based Message Authentication Reporting and Conformance |
+| DMARC | Domain-Based Message Authentication Reporting & Conformance |
 | DNF | Dandified YUM |
 | DNSBL | Domain Name System-Based Blackhole List |
+| DNSCAA | DNS Certification Authority Authorization |
 | DNS | Domain Name System |
 | DNSSEC | Domain Name System Security Extensions |
 | DOCSIS | Data Over Cable Service Interface Specification |
 | DOM | Document Object Model |
 | DOT | DNS over TLS |
+| DPAPI | Data Protection API |
 | DRDoS | DNS Reflection Denial of Service |
+| DREAD | Damage, Reproducibility, Exploitability, Affected Users, Discoverability |
 | DSA | Digital Signature Algorithm |
 | DSCP | Differntiated Services Code Point |
 | DSP | Digital Signal Procesor |
@@ -104,6 +129,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | EAP-SIM | EAP Subscriber Identity Module |
 | EAP-TLS | EAP Transport Layer Security |
 | EAP-TTLS | EAP Tunneled Transport Layer Security |
+| EAR | Execution After Redirect |
 | eBGP | External Border Gateway Protocol |
 | EBP | Extended Base Pointer |
 | ECC | Elliptic Curve Cryptography |
@@ -111,7 +137,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ECDSA | Elliptic Curve Digitial Signature Algorithm |
 | ECP | Encryption Control Protocol |
 | eCPPTv2 | eLearnSecurity Certified Professional Penetration Tester |
-| EDR | Endpoint Detection and Response  |
+| EDR | Endpoint Detection and Response |
 | EIGRP |  Enhanced Interior Gateway Routing Protocol |
 | EIP | Extended Instruction Pointer |
 | eJPT | eLearnSecurity Junior Penetration Tester |
@@ -121,11 +147,15 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ESI | Edge Side Includes |
 | ESP | Encapsulating Security Payload |
 | ESP | Extended Stack Pointer |
+| ETW | Event Tracing for Windows |
+| FAANG | Facebook, Apple, Amazon, Netflix, Google |
+| FIB | Forward Information Base |
 | FIDO | Fast Identity Online |
 | FIFO | First In, First Out |
 | FIM | File Integrity Monitoring |
 | FinTS | Financial Transaction Services |
 | FIPS | Federal Information Processing Standards |
+| FLoC | Federated Learning of Cohorts |
 | FOSS | Free and Open Source Software |
 | FTTB | Fiber to the Building |
 | FTTC/K | Fiber to the Curb / Kerb |
@@ -139,7 +169,10 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | FTTO | Fiber to the Office |
 | FTTP | Fiber to the Premises |
 | FTTX | Fiber to the X |
+| FUD | Fully Undetectable |
 | GCM | Galois Counter Mode |
+| GDPR | General Data Protection Regulation |
+| GPO | Group Policy Object |
 | GPON | Gigabit-Capable Passive Optical Networks |
 | GPP | Group Policy Password |
 | GRC | Governance, Risk Management and Compliance |
@@ -148,15 +181,21 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | GSSAPI | Generic Security Services Application Program Interface |
 | HBCI | Home Banking Computer Interface |
 | HFC | Hybrid Fiber-Coaxial |
+| HIOS | Host-Based Intrusion Detection System |
 | HMAC | Hash-Based Message Authentication Code |
 | HOTP | HMAC-Based One-Time Password |
+| HPC | High Performance Computing |
+| HQL | Hybernate Query Language |
 | HSDPA | High-Speed Downlink Packet Access |
 | HSRP | Host Standby Router Protocol |
 | HSTS | HTTP Strict Transport Security |
+| HTA | HTML Application |
 | HTML | Hypertext Markup Language |
-| IAM | Identity and access management |
-| iBGP | Internal Borde Gateway Protocol |
+| IAM | Identity Access Management |
+| IAVM | Information Assurance Vulnerbaility Alert |
+| iBGP | Internal Border Gateway Protocol |
 | ICMP | Internet Control Message Protocol |
+| IDN | International Domain Name |
 | IDOR | Insecure Direct Object Reference |
 | IDS | Intrusion Detection System |
 | IGMP | Internet Group Management Protocol |
@@ -164,6 +203,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | I | Integrity |
 | IKE | Internet Key Exchange |
 | IMAP | Internet Message Access Protocol |
+| IMDS | Instance Metadata Service Version |
 | IMEI | International Mobile Equipment Identity |
 | IMSI | International Mobile Subscriber Identity |
 | IOA | Indicator of Attack |
@@ -174,10 +214,15 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | IP | Internet Protocol |
 | IPSEC | Internet Protocol Security |
 | IPS | Intrusion Prevention System |
+| IRDP | ICMP Router Discovery Protocol |
 | ISAMKP | Internet Security Association and Key Management Protocol |
 | IS-IS | Intermediate System to Intermediate System |
+| ISO | International Organization for Standardization |
+| JSP | Java Server Pages |
 | KASLR | Kernel Address Space Layout Randomization |
+| KDC | Key Distribution Center |
 | KQL | Kibana Query Language |
+| LAPS | Local Administrator Password Solution |
 | LDAP | Lightweight Directory Access Protocol |
 | LEAP | Lightweight Extensible Authentication |
 | LFI | Local File Inclusion |
@@ -193,6 +238,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | MAC | Medium Access Control |
 | MAC | Message Authentication Code |
 | mDNS | Multicast DNS |
+| MEAN | MongoDB, Express.js, AngularJS, Node.js |
 | MFA | Multi-Faktor Authentication |
 | MIB | Management Information Base |
 | MIME | Multipurpose Internet Mail Extensions |
@@ -203,6 +249,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | MTA | Mail Transfer Agent |
 | MTASTS | Mail Transfer Agent-Strict Transport Security |
 | NAK | Negative Acknowledgement |
+| NBNS | NetBIOS Name Server |
+| NCSC | National Cyber Security Centre |
 | NDA | Non-Disclosure Agreement |
 | NFC | Near-Field Communication |
 | NFS | Network File System |
@@ -213,37 +261,50 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | NLA | Network Level Authentication |
 | NMI | Non-maskable Interrupt |
 | NOC | Network Operation Center |
+| NONCE | Number used once |
+| NoTW | Mark-of-the-Web |
 | NSX | Full-Stack Network & Security Virtuakization |
 | NTLM | New Technology Lan Manager |
 | NX | Non-Executable Stack |
 | OCSP | Online Certificate Status Protocol |
+| OGNL | Object-Graph Navigation Language |
 | OIDC | Open ID Connect |
 | OID | Object Identifier |
 | OOB | Out-of-Band |
 | OSCP | Offensive Security Certified Professional |
 | OSINT | Open Source Intelligence Tools |
 | OSPF | Open Shortest Path First |
+| OSSEC | Open Source HIDS Security |
+| OSSTMM | Open Source Security Testing Methodology Manual |
 | OSWE | Offensive Security Web Expert |
+| OVAL | Open Vulnerability and Assessment Framework |
 | OWASP | Open Web Application Security Project |
 | PAM | Pluggable Authentication Module |
 | PAM | Privileged Access Management |
 | PAP | Password Authentication Protocol |
 | PBKDF1 | Password-Based Key Derivation Function 1 |
 | PBKDF2 | Password-Based Key Derivation Function 2 |
+| PCI | Payment Card Industry |
+| PEAP-MSCHAPv2 | Protected Extensible Authentication Protocol MS-CHAPv2 |
 | PEAP | Protected Extensible Authentication Protocol |
 | PEM | Privacy Enhanced Mail |
 | PIE | Position Independent Executable |
+| PII | Personally Identifiable Information |
+| PIM | Privileged Identity Management |
 | PKCS | Public-Key Cryptography Standard |
 | PNAC | Port-Based Network Access Control |
 | POC | Phone Operation Center |
 | POP | Post Office Protocol |
 | POSIX | Portable Operating System Interface |
+| PQC | Post Quantum Cryptography |
 | PR | Privileges Required |
 | PSAD | Port Scan Attack Detector |
 | PSA | Public Service Announcement |
 | PTA | Permission-to-Attack |
 | PTK | Pairwise Transient Key |
+| PTK | Penetration Testing Kit |
 | QCR | Quantum Computer Resistant |
+| QEMU | Quick Emulator |
 | QUIC | Quicik UDP Internet Connections |
 | RAX | Register "a" extended |
 | RBAC | Role Based Access Control |
@@ -273,17 +334,20 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | RTP | Real-Time Transport Protocol |
 | RX | Receiving |
 | SAML | Security Assertion Markup Language |
+| SAM | Security Accounts Manager |
 | SAN | Subject Alternative Name |
 | SA | Security Associations |
 | SASL | Simple Authentication and Security Layer |
-| SAST | Stratic Application Security Testing |
+| SAST | Static Application Security Testing |
 | SCD | Source Code Disclosure |
+| SCEP | Simple Certificate Enrollment Protocol |
 | SCTP | Stream Control Transmission Protocol |
 | SDP | Session Description Protocol |
 | SD-WAN | Software-Defined Wide Area Network |
 | SEO | Search Engine Optimization |
 | SHIM | First Stage Bootloader |
 | SIEM | Security Information and Event Management |
+| SIKE | Supersingular Isogeny Key Encapsualtion |
 | SIM | Subscriber Identity Module |
 | SIP | Session Initiaton Protocol |
 | SKEL | Skeleton |
@@ -291,13 +355,17 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SMB | Server Message Block |
 | SMIME | Secure Multipurpose Internet Mail Extension |
 | SMTP | Simple Mail Transfer Protocol |
+| SOAR | Security Orchestration, Automation and Response |
+| SOA | Statement of Applicability |
 | SOC | Security Operation Center |
 | SoC | System on Chips |
 | SOP | Same Origin Policy |
 | SOP | Standard Operating Procedure |
+| SOQL | Salesforce Object Query Language |
 | SPA | Sender Protocol Address |
 | SPF | Sender Policy Framework |
 | SPI | Security Parameter Index |
+| SPN | Service Principal Name |
 | SPX | Secure PDF Exchange |
 | SQLI | Server-Query Language Injection |
 | SQL | Structured Query Language |
@@ -310,24 +378,39 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SSOT | Single Source of Truth |
 | SSPR | Self-Service Password Reset |
 | SSRF | Server-Side Request Forgery |
+| SSTF | Scroll to Text Fragment |
 | SSTI | Server-Side Template Injection |
 | STAS | Sophos Transparent Authentication Suite |
+| STEM | Systematic, Threat, Evaluation, Methodology |
+| STIG | Security Technical Implementation Guide |
+| STIX | Structured Threat Information Expression |
+| STRIDE | Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege |
 | STS | Security Token Service |
 | TAN | Transaction Authentication Number |
+| TAXII | Trusted Automated Exchange of Intelligence |
 | TCSEC | Trusted Computer System Evalutation Criteria |
 | TEAP | Tunnel Extensible Authentication Protocol |
+| TEE | Trusted Execution Environment |
+| TELNET | Teletype Network |
+| TGS | Ticket Granting Service |
 | TGT | Ticket Granting Ticket |
 | THA | Target Hardware Address |
 | TLS | Transport Layer Security |
 | TOS | Terms of Service |
 | TOTP | Time-Bases One-Time Password |
 | TPM | Trusted Platform Module |
+| TPS | Testing Procedure Specification |
+| TSIG | Transaction Signatures |
+| TSIG | Transaction Signatures |
 | TTP | Tactics, Techniques and Procedures |
 | TX | Transmitting |
+| UAF | Use-After-Free |
+| UIPI | User Interface Privilege Isolation |
 | UI | User Interaction |
 | UI | User Interface |
 | UPN | User Principal Name |
 | URI | Uniform Resource Identifier |
+| URL | Uniform Resource Locator |
 | UUID | Universally Unique Identifier |
 | VACM | View-Based Access Control Model |
 | VDP | Vulnerbaility Disclosure Program |
@@ -341,13 +424,18 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | WAT | Web Assembly Text Format |
 | WDM | Wavelength-Division Multiplexing |
 | WEP | Wired Equivalent Privacy |
+| WMIC | Windows Management + Instrumentation Command-Line |
 | WPA2 | Wi-Fi Protected Access 2 |
 | WPAD | Web Proxy Autodiscovery Protocol |
 | WPA | Wi-Fi Protected Access |
+| WSH | Windows Script Host |
 | XDP | Express Data Path |
-| XDR | Extended Detection and Response  |
+| XDR | Extended Detection and Response |
 | XHR | XML HTTP Request |
 | XSLT | Extensible Stylesheet Language Transformation |
 | XSS | Cross-Site Scripting |
+| XST | Cross-Site Tracing |
 | XXE | XML External Entity |
 | YUM | Yellowdog Updater, Modified |
+| ZTA | Zero Trust Approach |
+| ZTNA | Zero Trust Network Access |
