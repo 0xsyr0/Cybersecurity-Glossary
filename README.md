@@ -245,6 +245,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | MOK | Machine Owner Key |
 | MPLS | Multiprotocol Label Switching |
 | MQTT | Message Queue Telemetry Transport Protocol |
+| MSHTA | Microsoft HTML Application |
 | MSS | Maximum Segment Size |
 | MTA | Mail Transfer Agent |
 | MTASTS | Mail Transfer Agent-Strict Transport Security |
