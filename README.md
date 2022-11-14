@@ -20,7 +20,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | AH | Authentication Header |
 | AMQP | Advanced Message Query Protocol |
 | ANSI | American National Standards Institute |
-| ANSI | Antimalware Scan Interface |
+| AMSI | Antimalware Scan Interface |
 | API | Application Programming Interface |
 | APIPA | Automatic Pricate IP Addressing |
 | APT | Advanced Packaging Tool |
