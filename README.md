@@ -95,6 +95,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DEFI | Decentralized Finance |
 | DEP | Data Execution Prevention |
 | DES | Data Encryption Standard |
+| DFD | Data Flow Diagram |
 | DFIR | Digital Forensics Incident Response |
 | DHCP | Dynamic Host Configuration Protocol |
 | DIG | Domain Information Groper |
@@ -343,6 +344,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SCD | Source Code Disclosure |
 | SCEP | Simple Certificate Enrollment Protocol |
 | SCTP | Stream Control Transmission Protocol |
+| SDL | Ssecurity Development Lifecycle |
 | SDP | Session Description Protocol |
 | SD-WAN | Software-Defined Wide Area Network |
 | SEO | Search Engine Optimization |
