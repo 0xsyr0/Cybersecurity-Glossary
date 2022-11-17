@@ -84,6 +84,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CVRF | Common Vulnerability Reporting Framework |
 | CVSS | Common Vulnerability Scoring System |
 | CWE | Common Weakness Enumeration |
+| CTI | Cyber Threat Intelligence |
 | DAAS | Data, Assets, Applications and Services |
 | DACL | Discretionary Access Control List |
 | DAD | Destruction, Alteration, Disclosure |
@@ -398,6 +399,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | TGS | Ticket Granting Service |
 | TGT | Ticket Granting Ticket |
 | THA | Target Hardware Address |
+| TI | Threat Intelligence |
 | TLS | Transport Layer Security |
 | TOS | Terms of Service |
 | TOTP | Time-Bases One-Time Password |
