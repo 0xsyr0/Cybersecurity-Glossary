@@ -16,6 +16,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ACME | Automated Certificate Management Environment |
 | ACPI | Advanced Configuration and Power Interface |
 | ADDS | Active Directory Domain Service |
+| AEP | ATT&CK Emulation Plans |
 | AES | Advanced Encryption Standard |
 | AH | Authentication Header |
 | AMQP | Advanced Message Query Protocol |
@@ -46,6 +47,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | C4 | Customizable Command and Control Center |
 | CAM | Content Addressable Memory |
 | CAPTCHA | Completely Automated Public Turing Test to tell Computers and Humans appart |
+| CAR | Cyber Analytics Repository |
 | CASB | Cloud Access Security Broker |
 | CBC | cypher Block Chaining |
 | CBC-MAC | Cipher Block Chaining Message Authentication Code | 
@@ -85,6 +87,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CVSS | Common Vulnerability Scoring System |
 | CWE | Common Weakness Enumeration |
 | CTI | Cyber Threat Intelligence |
+| D3FEND | Detection, Denial, and Disruption Framework Empowering Network Defense |
 | DAAS | Data, Assets, Applications and Services |
 | DACL | Discretionary Access Control List |
 | DAD | Destruction, Alteration, Disclosure |
