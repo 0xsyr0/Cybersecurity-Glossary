@@ -220,6 +220,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | IPSEC | Internet Protocol Security |
 | IPS | Intrusion Prevention System |
 | IRDP | ICMP Router Discovery Protocol |
+| ISAC | Information Sharing and Analysis Center |
 | ISAMKP | Internet Security Association and Key Management Protocol |
 | IS-IS | Intermediate System to Intermediate System |
 | ISO | International Organization for Standardization |
