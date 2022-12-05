@@ -163,6 +163,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | FIPS | Federal Information Processing Standards |
 | FLoC | Federated Learning of Cohorts |
 | FOSS | Free and Open Source Software |
+| FPM | FastCGI Process Manager |
 | FTTB | Fiber to the Building |
 | FTTC/K | Fiber to the Curb / Kerb |
 | FTTD | Fiber to the Desktop |
