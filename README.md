@@ -120,6 +120,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DSA | Digital Signature Algorithm |
 | DSCP | Differntiated Services Code Point |
 | DSP | Digital Signal Procesor |
+| DTD | Document Type Definition |
 | DTMF | Dual Tome Multi Frequency |
 | EAP-AKA | EAP Authentication and Key Agreement |
 | EAP-AKA' | EAP Authentication and Key Agreement Prime |
