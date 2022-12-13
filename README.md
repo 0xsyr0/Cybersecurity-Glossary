@@ -178,6 +178,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | FTTX | Fiber to the X |
 | FUD | Fully Undetectable |
 | GCM | Galois Counter Mode |
+| GCP | Google Cloud Platform |
 | GDPR | General Data Protection Regulation |
 | GPO | Group Policy Object |
 | GPON | Gigabit-Capable Passive Optical Networks |
