@@ -423,6 +423,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | UPN | User Principal Name |
 | URI | Uniform Resource Identifier |
 | URL | Uniform Resource Locator |
+| USART | Universal Synchronous/Asynchronous Receiver-Transmitter |
 | UUID | Universally Unique Identifier |
 | VACM | View-Based Access Control Model |
 | VDP | Vulnerbaility Disclosure Program |
