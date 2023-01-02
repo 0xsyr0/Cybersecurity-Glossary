@@ -180,6 +180,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | GCM | Galois Counter Mode |
 | GCP | Google Cloud Platform |
 | GDPR | General Data Protection Regulation |
+| GMSA | Group Managed Service Accounts |
 | GPO | Group Policy Object |
 | GPON | Gigabit-Capable Passive Optical Networks |
 | GPP | Group Policy Password |
