@@ -353,6 +353,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SCD | Source Code Disclosure |
 | SCEP | Simple Certificate Enrollment Protocol |
 | SCTP | Stream Control Transmission Protocol |
+| SDDL | Security Descriptor Definition Language |
 | SDL | Ssecurity Development Lifecycle |
 | SDP | Session Description Protocol |
 | SD-WAN | Software-Defined Wide Area Network |
