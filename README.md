@@ -1,5 +1,5 @@
 <p align="left">
-  <img width="300" height="300" src="https://github.com/0xsyr0/Cybersecurity-Glossary/blob/main/images/glossary.png">
+  <img width="150" height="150" src="https://github.com/0xsyr0/Cybersecurity-Glossary/blob/main/images/glossary.png">
 </p>
 
 # Cybersecurity Glossary
