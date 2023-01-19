@@ -271,6 +271,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | NIST | National Institute of Standards and Technology |
 | NLA | Network Level Authentication |
 | NMI | Non-maskable Interrupt |
+| NDA | Non-Disclosure Agreement |
 | NOC | Network Operation Center |
 | NONCE | Number used once |
 | NoTW | Mark-of-the-Web |
