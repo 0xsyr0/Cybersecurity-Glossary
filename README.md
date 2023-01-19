@@ -416,7 +416,6 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | TPM | Trusted Platform Module |
 | TPS | Testing Procedure Specification |
 | TSIG | Transaction Signatures |
-| TSIG | Transaction Signatures |
 | TTP | Tactics, Techniques and Procedures |
 | TX | Transmitting |
 | UAF | Use-After-Free |
