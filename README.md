@@ -44,6 +44,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | BLOB | Binary Large Object |
 | BSS | Base Service Set |
 | C2 | Command and Control |
+| C3 | Custom Command and Control |
 | C4 | Customizable Command and Control Center |
 | CAM | Content Addressable Memory |
 | CAPTCHA | Completely Automated Public Turing Test to tell Computers and Humans appart |
