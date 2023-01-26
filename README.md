@@ -275,6 +275,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | NDA | Non-Disclosure Agreement |
 | NOC | Network Operation Center |
 | NONCE | Number used once |
+| NoSQL | Not only SQL |
 | NoTW | Mark-of-the-Web |
 | NSX | Full-Stack Network & Security Virtuakization |
 | NTLM | New Technology Lan Manager |
