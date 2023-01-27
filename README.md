@@ -115,7 +115,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DOCSIS | Data Over Cable Service Interface Specification |
 | DOM | Document Object Model |
 | DOT | DNS over TLS |
-| DPAPI | Data Protection API |
+| DPAPI | Data Protection Application Programming Interface |
 | DRDoS | DNS Reflection Denial of Service |
 | DREAD | Damage, Reproducibility, Exploitability, Affected Users, Discoverability |
 | DSA | Digital Signature Algorithm |
