@@ -430,6 +430,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | USART | Universal Synchronous/Asynchronous Receiver-Transmitter |
 | UUID | Universally Unique Identifier |
 | VACM | View-Based Access Control Model |
+| VBA | Visual Basic for Application |
 | VDP | Vulnerbaility Disclosure Program |
 | VICI | Versatile IKE Configuration Interface |
 | VOC | Video Operation Center |
