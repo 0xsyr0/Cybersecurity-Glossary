@@ -28,6 +28,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | APT | Advanced Persistent Threat |
 | ARP | Address Resolution Protocol |
 | ASLR | Address Space Layout Randomization |
+| ASR | Attack Surface Reduction |
 | ASVS | Application Security Verification System |
 | ATM | Asynchronous Transfer Mode |
 | ATT | App Tracking Transparency |
@@ -106,6 +107,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DIG | Domain Information Groper |
 | DKIM | DomainKeys Identified Mail |
 | DLP | Data Loss Prevention |
+| DLR | Dynamic Language Runtime |
 | DMARC | Domain-Based Message Authentication Reporting & Conformance |
 | DNF | Dandified YUM |
 | DNSBL | Domain Name System-Based Blackhole List |
