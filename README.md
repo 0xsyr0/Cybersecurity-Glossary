@@ -275,6 +275,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | NLA | Network Level Authentication |
 | NMI | Non-maskable Interrupt |
 | NDA | Non-Disclosure Agreement |
+| NDR | Network Detection and Response |
 | NOC | Network Operation Center |
 | NONCE | Number used once |
 | NoSQL | Not only SQL |
