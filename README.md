@@ -8,6 +8,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 
 | Abbreviation | Meaning |
 | --- | --- |
+| 3LOD | Three Lines of Defense |
 | AAA | Authentication, Authorization, Accounting |
 | A | Availability |
 | AC | Attack Complexity |
@@ -125,6 +126,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DSP | Digital Signal Procesor |
 | DTD | Document Type Definition |
 | DTMF | Dual Tome Multi Frequency |
+| E2EE | End-to-End Email Encryption |
 | EAP-AKA | EAP Authentication and Key Agreement |
 | EAP-AKA' | EAP Authentication and Key Agreement Prime |
 | EAP-EKE | EAP Encrypted Key Exchange |
