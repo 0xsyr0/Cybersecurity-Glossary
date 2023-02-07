@@ -327,6 +327,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | QUIC | Quicik UDP Internet Connections |
 | RAX | Register "a" extended |
 | RBAC | Role Based Access Control |
+| RBCD | Resource Based Constrained Delegation |
 | RBL | Realt-Time Blackhole List |
 | RBL | Return Black List |
 | RBP | Register Base Pointer |
