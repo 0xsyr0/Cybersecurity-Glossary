@@ -56,6 +56,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CBC-MAC | Cipher Block Chaining Message Authentication Code | 
 | CBSP | Cloud-Based Security Provider |
 | C | Confidentiality |
+| ccTLD | Country Code Top-Level Domain |
 | CDC | Cyber Defense Center |
 | CDN | Content Delivery Network |
 | CDP | Certificate Distribution Point |
@@ -193,6 +194,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | GRE | Generic Routing Encapsulation |
 | GRPC | Google Remote Procedure Calls |
 | GSSAPI | Generic Security Services Application Program Interface |
+| gTLD | Generic Top-Level Domain |
 | HBCI | Home Banking Computer Interface |
 | HFC | Hybrid Fiber-Coaxial |
 | HIOS | Host-Based Intrusion Detection System |
@@ -418,6 +420,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | TGT | Ticket Granting Ticket |
 | THA | Target Hardware Address |
 | TI | Threat Intelligence |
+| TLD | Top-Level Domain |
 | TLS | Transport Layer Security |
 | TOS | Terms of Service |
 | TOTP | Time-Bases One-Time Password |
