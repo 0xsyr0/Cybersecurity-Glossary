@@ -106,6 +106,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DFD | Data Flow Diagram |
 | DFIR | Digital Forensics Incident Response |
 | DHCP | Dynamic Host Configuration Protocol |
+| DI | Dependency Injection |
 | DIG | Domain Information Groper |
 | DKIM | DomainKeys Identified Mail |
 | DLP | Data Loss Prevention |
