@@ -256,6 +256,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | MAC | Medium Access Control |
 | MAC | Message Authentication Code |
 | mDNS | Multicast DNS |
+| MDR | Managed Detection and Response |
 | MEAN | MongoDB, Express.js, AngularJS, Node.js |
 | MFA | Multi-Faktor Authentication |
 | MIB | Management Information Base |
