@@ -112,6 +112,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DLP | Data Loss Prevention |
 | DLR | Dynamic Language Runtime |
 | DMARC | Domain-Based Message Authentication Reporting & Conformance |
+| DMZ | Demilitarized Zone |
 | DNF | Dandified YUM |
 | DNSBL | Domain Name System-Based Blackhole List |
 | DNSCAA | DNS Certification Authority Authorization |
