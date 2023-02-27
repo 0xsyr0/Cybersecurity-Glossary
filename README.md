@@ -152,6 +152,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ECP | Encryption Control Protocol |
 | eCPPTv2 | eLearnSecurity Certified Professional Penetration Tester |
 | EDR | Endpoint Detection and Response |
+| EDTR | Endpoint Detection and Threat Response |
 | EIGRP |  Enhanced Interior Gateway Routing Protocol |
 | EIP | Extended Instruction Pointer |
 | eJPT | eLearnSecurity Junior Penetration Tester |
