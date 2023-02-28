@@ -280,6 +280,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | NGAV | Next-Generation Antivirus |
 | NGE | Next Generation Encryption |
 | NGFW | Next-Generation Firewall |
+| NIDS | Network-based Intrusion Detection System |
+| NIPS | Network-based Intrusion Prevention System |
 | NIST | National Institute of Standards and Technology |
 | NLA | Network Level Authentication |
 | NMI | Non-maskable Interrupt |
