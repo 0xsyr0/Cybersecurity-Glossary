@@ -268,6 +268,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | MPLS | Multiprotocol Label Switching |
 | MQTT | Message Queue Telemetry Transport Protocol |
 | MSHTA | Microsoft HTML Application |
+| MS-NRPC | Microsoft NetLogon Remote Protocol |
 | MSS | Maximum Segment Size |
 | MTA | Mail Transfer Agent |
 | MTASTS | Mail Transfer Agent-Strict Transport Security |
