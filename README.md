@@ -247,6 +247,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | LDAP | Lightweight Directory Access Protocol |
 | LEAP | Lightweight Extensible Authentication |
 | LFI | Local File Inclusion |
+| LIFO | Last In, First Out |
 | LLC | Logical Link Layer |
 | LLMNR | Link-Local Multicast Name Resolution |
 | LOC | Logistic Operation Center |
