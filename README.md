@@ -277,6 +277,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | NBNS | NetBIOS Name Server |
 | NCSC | National Cyber Security Centre |
 | NDA | Non-Disclosure Agreement |
+| NDR | Network Detection and Response |
 | NFC | Near-Field Communication |
 | NFS | Network File System |
 | NGAV | Next-Generation Antivirus |
@@ -287,8 +288,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | NIST | National Institute of Standards and Technology |
 | NLA | Network Level Authentication |
 | NMI | Non-maskable Interrupt |
-| NDA | Non-Disclosure Agreement |
-| NDR | Network Detection and Response |
+| NMS | Network Monitoring System |
 | NOC | Network Operation Center |
 | NONCE | Number used once |
 | NoSQL | Not only SQL |
@@ -328,6 +328,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | POSIX | Portable Operating System Interface |
 | PQC | Post Quantum Cryptography |
 | PR | Privileges Required |
+| ProgID | Programmatic ID |
 | PSAD | Port Scan Attack Detector |
 | PSA | Public Service Announcement |
 | PTA | Permission-to-Attack |
