@@ -294,6 +294,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | NoSQL | Not only SQL |
 | NoTW | Mark-of-the-Web |
 | NSX | Full-Stack Network & Security Virtuakization |
+| NTFS | New Technology File System |
 | NTLM | New Technology Lan Manager |
 | NX | Non-Executable Stack |
 | OCSP | Online Certificate Status Protocol |
