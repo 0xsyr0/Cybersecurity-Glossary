@@ -460,6 +460,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | WAP | Web Application Protection |
 | WASM | Web Assembly |
 | WAT | Web Assembly Text Format |
+| WCD | Web Cache Deception |
 | WDM | Wavelength-Division Multiplexing |
 | WEP | Wired Equivalent Privacy |
 | WMIC | Windows Management + Instrumentation Command-Line |
