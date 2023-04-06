@@ -86,6 +86,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CSRF | Client-Side Request Forgery |
 | CTA | Czberroam Transparent Authentication |
 | CTAP | Client to Authenticator Protocol |
+| CU | Content Update |
 | CVE | Common Vulnerabilities and Exposures |
 | CVRF | Common Vulnerability Reporting Framework |
 | CVSS | Common Vulnerability Scoring System |
@@ -248,6 +249,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | LEAP | Lightweight Extensible Authentication |
 | LFI | Local File Inclusion |
 | LIFO | Last In, First Out |
+| LINQ | Language-Integrated Query |
 | LLC | Logical Link Layer |
 | LLMNR | Link-Local Multicast Name Resolution |
 | LOC | Logistic Operation Center |
