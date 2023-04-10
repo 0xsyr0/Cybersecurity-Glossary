@@ -378,7 +378,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SCEP | Simple Certificate Enrollment Protocol |
 | SCTP | Stream Control Transmission Protocol |
 | SDDL | Security Descriptor Definition Language |
-| SDL | Ssecurity Development Lifecycle |
+| SDL | Security Development Lifecycle |
+| SDLC | Software Development Lifecycle |
 | SDP | Session Description Protocol |
 | SD-WAN | Software-Defined Wide Area Network |
 | SEO | Search Engine Optimization |
