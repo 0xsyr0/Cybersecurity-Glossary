@@ -320,6 +320,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | PCI | Payment Card Industry |
 | PEAP-MSCHAPv2 | Protected Extensible Authentication Protocol MS-CHAPv2 |
 | PEAP | Protected Extensible Authentication Protocol |
+| PEB | Process Environment Block |
 | PEM | Privacy Enhanced Mail |
 | PIE | Position Independent Executable |
 | PII | Personally Identifiable Information |
@@ -412,6 +413,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SSE | Server-Side Encryption |
 | SSI | Server Side Includes |
 | SSL | Secure Socket Layer |
+| SSN | Syscall Service Numbers |
 | SSO | Single Sign-On |
 | SSOT | Single Source of Truth |
 | SSPR | Self-Service Password Reset |
