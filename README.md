@@ -476,6 +476,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | XDP | Express Data Path |
 | XDR | Extended Detection and Response |
 | XHR | XML HTTP Request |
+| XOR | Exclusive or |
 | XSLT | Extensible Stylesheet Language Transformation |
 | XSS | Cross-Site Scripting |
 | XST | Cross-Site Tracing |
