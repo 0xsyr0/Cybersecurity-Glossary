@@ -29,6 +29,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | APT | Advanced Persistent Threat |
 | ARP | Address Resolution Protocol |
 | ASLR | Address Space Layout Randomization |
+| ASPX | Active Server Page Extended |
 | ASR | Attack Surface Reduction |
 | ASVS | Application Security Verification System |
 | ATM | Asynchronous Transfer Mode |
@@ -240,6 +241,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ISAMKP | Internet Security Association and Key Management Protocol |
 | IS-IS | Intermediate System to Intermediate System |
 | ISO | International Organization for Standardization |
+| JS | JavaScript |
+| JSON | JavaScript Object Notation |
 | JSP | Java Server Pages |
 | KASLR | Kernel Address Space Layout Randomization |
 | KDC | Key Distribution Center |
@@ -481,6 +484,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | XSS | Cross-Site Scripting |
 | XST | Cross-Site Tracing |
 | XXE | XML External Entity |
+| YAML | YAML Ain't Markup Language |
 | YUM | Yellowdog Updater, Modified |
 | ZTA | Zero Trust Approach |
 | ZTNA | Zero Trust Network Access |
