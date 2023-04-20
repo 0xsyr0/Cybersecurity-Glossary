@@ -278,6 +278,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | MSS | Maximum Segment Size |
 | MTA | Mail Transfer Agent |
 | MTASTS | Mail Transfer Agent-Strict Transport Security |
+| MTLS | Mutual TLS |
 | NAK | Negative Acknowledgement |
 | NBNS | NetBIOS Name Server |
 | NCSC | National Cyber Security Centre |
@@ -311,6 +312,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | OSINT | Open Source Intelligence Tools |
 | OSPF | Open Shortest Path First |
 | OSSEC | Open Source HIDS Security |
+| OSSEM | Open Source Security Event Metadata |
 | OSSTMM | Open Source Security Testing Methodology Manual |
 | OSWE | Offensive Security Web Expert |
 | OVAL | Open Vulnerability and Assessment Framework |
