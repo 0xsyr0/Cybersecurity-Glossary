@@ -192,6 +192,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | GCP | Google Cloud Platform |
 | GDPR | General Data Protection Regulation |
 | GMSA | Group Managed Service Accounts |
+| GOT | Global Offset Table |
 | GPO | Group Policy Object |
 | GPON | Gigabit-Capable Passive Optical Networks |
 | GPP | Group Policy Password |
@@ -359,6 +360,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | RDNS | REverse Domain Name System |
 | RDP | Responsible Disclosure Policy |
 | RDX | Register "d" extended |
+| RELRO | Relocation Read-Only |
 | REST | Representional State Transfer |
 | RFC | Request for Comments |
 | RFI | Remote File Inclusion |
