@@ -231,6 +231,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | IMSI | International Mobile Subscriber Identity |
 | IOA | Indicator of Attack |
 | IOC | Indicator of Compromise |
+| IOMMU | Input-Output Memory Management Unit |
 | IPAM | IP Address Management |
 | IPC | Inter-Process Communication |
 | IPFIX | Internet Protocol Flow Information Export |
@@ -255,6 +256,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | LIFO | Last In, First Out |
 | LINQ | Language-Integrated Query |
 | LLC | Logical Link Layer |
+| LLM | Large Language Model |
 | LLMNR | Link-Local Multicast Name Resolution |
 | LOC | Logistic Operation Center |
 | LORAWAN | Long Range Wide Area Network |
