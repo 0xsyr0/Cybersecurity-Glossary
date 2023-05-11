@@ -38,6 +38,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | AuthPF | Authentication Packet Filter |
 | AV | Antivirus |
 | AV | Attack Vector |
+| AWL | App White Listing |
 | AXFR | DNS Zone Transfer / DNS Query Type |
 | BEC | Business Email Compromise |
 | BFP | Berkeley Packet Filter |
@@ -68,6 +69,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CIA | Confidentiality, Integrity, Availability |
 | CI/CD | Continuous Integration / Continuous Delivery |
 | CIFS | Commin Internet File System |
+| CLM | Constrained Language Mode |
 | CMMI | Mellon Capability Maturity Model |
 | CNCF | Cloud Native Computing Foundation |
 | CN | Change Notice |
