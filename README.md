@@ -21,8 +21,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | AES | Advanced Encryption Standard |
 | AH | Authentication Header |
 | AMQP | Advanced Message Query Protocol |
-| ANSI | American National Standards Institute |
 | AMSI | Antimalware Scan Interface |
+| ANSI | American National Standards Institute |
 | API | Application Programming Interface |
 | APIPA | Automatic Pricate IP Addressing |
 | APT | Advanced Packaging Tool |
@@ -89,12 +89,12 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CSRF | Client-Side Request Forgery |
 | CTA | Czberroam Transparent Authentication |
 | CTAP | Client to Authenticator Protocol |
+| CTI | Cyber Threat Intelligence |
 | CU | Content Update |
 | CVE | Common Vulnerabilities and Exposures |
 | CVRF | Common Vulnerability Reporting Framework |
 | CVSS | Common Vulnerability Scoring System |
 | CWE | Common Weakness Enumeration |
-| CTI | Cyber Threat Intelligence |
 | D3FEND | Detection, Denial, and Disruption Framework Empowering Network Defense |
 | DAAS | Data, Assets, Applications and Services |
 | DACL | Discretionary Access Control List |
@@ -281,6 +281,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | MSHTA | Microsoft HTML Application |
 | MS-NRPC | Microsoft NetLogon Remote Protocol |
 | MSS | Maximum Segment Size |
+| MSSP | Managed Security Service Provider |
 | MTA | Mail Transfer Agent |
 | MTASTS | Mail Transfer Agent-Strict Transport Security |
 | MTLS | Mutual TLS |
@@ -341,8 +342,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | POP | Post Office Protocol |
 | POSIX | Portable Operating System Interface |
 | PQC | Post Quantum Cryptography |
-| PR | Privileges Required |
 | ProgID | Programmatic ID |
+| PR | Privileges Required |
 | PSAD | Port Scan Attack Detector |
 | PSA | Public Service Announcement |
 | PTA | Permission-to-Attack |
@@ -390,8 +391,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SCEP | Simple Certificate Enrollment Protocol |
 | SCTP | Stream Control Transmission Protocol |
 | SDDL | Security Descriptor Definition Language |
-| SDL | Security Development Lifecycle |
 | SDLC | Software Development Lifecycle |
+| SDL | Security Development Lifecycle |
 | SDP | Session Description Protocol |
 | SD-WAN | Software-Defined Wide Area Network |
 | SEO | Search Engine Optimization |
@@ -420,6 +421,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SQLI | Server-Query Language Injection |
 | SQL | Structured Query Language |
 | S | Scope |
+| S-SDLC | Secure Software Development Lifecycle |
 | SSDT | Secondary System Descriptor Tables |
 | SSE | Server-Side Encryption |
 | SSI | Server Side Includes |
