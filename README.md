@@ -76,6 +76,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | COLO | Co-Location |
 | COM | Computer Object Model |
 | CONOPS | Concept of Operations |
+| CORS | Cross-Origin Resource Sharing |
 | CPRS | Cross Origin Resource Sharing |
 | CRC | Code Ready Containers |
 | CRI | Container Runtime Interface |
