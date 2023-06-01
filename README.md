@@ -108,6 +108,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DDNS / DynDNS | Dynamic Domain Name System |
 | DDoS | Distributed Denial of Service |
 | DEFI | Decentralized Finance |
+| DEG | Defender Exploit Guard |
 | DEP | Data Execution Prevention |
 | DES | Data Encryption Standard |
 | DFD | Data Flow Diagram |
@@ -336,6 +337,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | PEAP | Protected Extensible Authentication Protocol |
 | PEB | Process Environment Block |
 | PEM | Privacy Enhanced Mail |
+| PI | Process Instrumentation |
 | PIE | Position Independent Executable |
 | PII | Personally Identifiable Information |
 | PIM | Privileged Identity Management |
