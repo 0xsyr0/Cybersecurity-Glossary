@@ -47,6 +47,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | BITS | Background Intelligence Transfer Service |
 | BLOB | Binary Large Object |
 | BSS | Base Service Set |
+| BYOL | Bring Your Own Land |
+| BYOVD | Bring Your Own Vulnerable Driver |
 | C2 | Command and Control |
 | C3 | Custom Command and Control |
 | C4 | Customizable Command and Control Center |
