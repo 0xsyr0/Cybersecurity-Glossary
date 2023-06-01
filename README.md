@@ -369,6 +369,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | RDI | Register Destination Index |
 | RDNS | REverse Domain Name System |
 | RDP | Responsible Disclosure Policy |
+| R&D | Research and Development |
 | RDX | Register "d" extended |
 | RELRO | Relocation Read-Only |
 | REST | Representional State Transfer |
