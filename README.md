@@ -428,6 +428,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SQL | Structured Query Language |
 | S | Scope |
 | S-SDLC | Secure Software Development Lifecycle |
+| SRI | Subresource Integrity |
 | SSDT | Secondary System Descriptor Tables |
 | SSE | Server-Side Encryption |
 | SSI | Server Side Includes |
