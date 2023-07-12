@@ -488,6 +488,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | WCD | Web Cache Deception |
 | WDM | Wavelength-Division Multiplexing |
 | WEP | Wired Equivalent Privacy |
+| WinRM | Windows Remote Management |
 | WMIC | Windows Management + Instrumentation Command-Line |
 | WPA2 | Wi-Fi Protected Access 2 |
 | WPAD | Web Proxy Autodiscovery Protocol |
