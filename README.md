@@ -66,6 +66,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CDP | Certificate Distribution Point |
 | CEH | Certified Ethical Hacker |
 | CERT | Computer Emergency Response Team |
+| CFG | Control Flow Guard |
 | CFP | Call for Papers |
 | CHAP | Challenge-Handshake Authentication Protocol |
 | CIA | Confidentiality, Integrity, Availability |
