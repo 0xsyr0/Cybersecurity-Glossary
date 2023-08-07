@@ -86,6 +86,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CRLF | Carriage Return Line Feed |
 | CRUD | Create, Read, Update, Delete |
 | CSAF | Common Security Advisory Framework |
+| CSD | Client-Side Desync |
 | CSIRT | Computer Security Incident Response Team |
 | CSMA/CD | Carrier Sense Multiple Access/Collision Detection |
 | CSP | Content Security Policy |
