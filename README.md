@@ -254,6 +254,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | JS | JavaScript |
 | JSON | JavaScript Object Notation |
 | JSP | Java Server Pages |
+| JWKS | JSON Web Key Set |
 | KASLR | Kernel Address Space Layout Randomization |
 | KDC | Key Distribution Center |
 | KQL | Kibana Query Language |
