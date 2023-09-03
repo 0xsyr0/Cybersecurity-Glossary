@@ -229,6 +229,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | IDN | International Domain Name |
 | IDOR | Insecure Direct Object Reference |
 | IDS | Intrusion Detection System |
+| IFS | Internal Field Separator |
 | IGMP | Internet Group Management Protocol |
 | IGRP | Interior Gateway Routing |
 | I | Integrity |
