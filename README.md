@@ -71,7 +71,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CHAP | Challenge-Handshake Authentication Protocol |
 | CIA | Confidentiality, Integrity, Availability |
 | CI/CD | Continuous Integration / Continuous Delivery |
-| CIFS | Commin Internet File System |
+| CIFS | Common Internet File System |
 | CLM | Constrained Language Mode |
 | CMMI | Mellon Capability Maturity Model |
 | CNCF | Cloud Native Computing Foundation |
