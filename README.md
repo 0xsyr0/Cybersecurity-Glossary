@@ -380,6 +380,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | REST | Representional State Transfer |
 | RFC | Request for Comments |
 | RFI | Remote File Inclusion |
+| RID | Relative Identifier |
 | RIP | Routing Information Protocol |
 | RNDC | Remote Name Daemon Control |
 | ROE | Rules of Engagement |
@@ -408,6 +409,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SD-WAN | Software-Defined Wide Area Network |
 | SEO | Search Engine Optimization |
 | SHIM | First Stage Bootloader |
+| SID | Security Identifier |
 | SIEM | Security Information and Event Management |
 | SIKE | Supersingular Isogeny Key Encapsualtion |
 | SIM | Subscriber Identity Module |
