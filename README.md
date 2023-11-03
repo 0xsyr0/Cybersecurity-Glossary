@@ -102,6 +102,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CWE | Common Weakness Enumeration |
 | D3FEND | Detection, Denial, and Disruption Framework Empowering Network Defense |
 | DAAS | Data, Assets, Applications and Services |
+| DAC | Discretionary Access Control |
 | DACL | Discretionary Access Control List |
 | DAD | Destruction, Alteration, Disclosure |
 | DAPP | Decentralized Applications |
@@ -277,6 +278,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | LSASS | Local Security Authority Subsystem Service |
 | LXC | Linux Container |
 | LXD | Linux Daemon |
+| MAC | Mandatory Access Control |
 | MAC | Medium Access Control |
 | MAC | Message Authentication Code |
 | mDNS | Multicast DNS |
