@@ -76,6 +76,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CMMI | Mellon Capability Maturity Model |
 | CNCF | Cloud Native Computing Foundation |
 | CN | Change Notice |
+| COFF | Common Object File Format |
 | COLO | Co-Location |
 | COM | Computer Object Model |
 | CONOPS | Concept of Operations |
