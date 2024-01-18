@@ -425,7 +425,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SMTP | Simple Mail Transfer Protocol |
 | SOAR | Security Orchestration, Automation and Response |
 | SOA | Statement of Applicability |
-| SOC | Security Operation Center |
+| SOC | Security Operations Center |
 | SoC | System on Chips |
 | SOP | Same Origin Policy |
 | SOP | Standard Operating Procedure |
