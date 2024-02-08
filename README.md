@@ -93,6 +93,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CSP | Content Security Policy |
 | CSPM | Cloud Security Posture Management |
 | CSRF | Client-Side Request Forgery |
+| CSRSS | Client Server Runtime Process |
 | CTA | Czberroam Transparent Authentication |
 | CTAP | Client to Authenticator Protocol |
 | CTI | Cyber Threat Intelligence |
@@ -401,10 +402,12 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SAM | Security Accounts Manager |
 | SAN | Subject Alternative Name |
 | SA | Security Associations |
+| SAS | Secure Attention Sequence |
 | SASL | Simple Authentication and Security Layer |
 | SAST | Static Application Security Testing |
 | SCD | Source Code Disclosure |
 | SCEP | Simple Certificate Enrollment Protocol |
+| SCM | Service Control Manager |
 | SCTP | Stream Control Transmission Protocol |
 | SDDL | Security Descriptor Definition Language |
 | SDLC | Software Development Lifecycle |
@@ -422,6 +425,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SLAAC | Stateless Address Auto-Configuration |
 | SMB | Server Message Block |
 | SMIME | Secure Multipurpose Internet Mail Extension |
+| SMSS | Session Manager Subsystem |
 | SMTP | Simple Mail Transfer Protocol |
 | SOAR | Security Orchestration, Automation and Response |
 | SOA | Statement of Applicability |
