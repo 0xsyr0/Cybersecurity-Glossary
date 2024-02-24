@@ -471,6 +471,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | TGT | Ticket Granting Ticket |
 | THA | Target Hardware Address |
 | TI | Threat Intelligence |
+| TIBER-EU | Threat Intelligence-Based Ethical Red-Teaming |
 | TLD | Top-Level Domain |
 | TLS | Transport Layer Security |
 | TOS | Terms of Service |
