@@ -206,7 +206,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | GOT | Global Offset Table |
 | GPO | Group Policy Object |
 | GPON | Gigabit-Capable Passive Optical Networks |
-| GPP | Group Policy Password |
+| GPP | Group Policy Preferences |
 | GRC | Governance, Risk Management and Compliance |
 | GRE | Generic Routing Encapsulation |
 | GRPC | Google Remote Procedure Calls |
