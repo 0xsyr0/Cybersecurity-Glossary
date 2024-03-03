@@ -506,6 +506,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | WEP | Wired Equivalent Privacy |
 | WinRM | Windows Remote Management |
 | WMIC | Windows Management + Instrumentation Command-Line |
+| WOFF | Web Open Font Format |
 | WPA2 | Wi-Fi Protected Access 2 |
 | WPAD | Web Proxy Autodiscovery Protocol |
 | WPA | Wi-Fi Protected Access |
