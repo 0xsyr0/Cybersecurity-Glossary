@@ -277,6 +277,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | LOTL | Living of the Land |
 | LPD | Line Printer Daemon |
 | LQL | Lucene Query Language |
+| LSA | Local Security Authority |
 | LSASS | Local Security Authority Subsystem Service |
 | LXC | Linux Container |
 | LXD | Linux Daemon |
