@@ -171,6 +171,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | eJPT | eLearnSecurity Junior Penetration Tester |
 | ELF | Executable and Linkable Format |
 | ELK | Elasticsearch, Logstash, Kibana |
+| EM | Exposure Management |
 | ESAE | Enhanced Security Administrative Environment |
 | ESI | Edge Side Includes |
 | ESP | Encapsulating Security Payload |
