@@ -29,6 +29,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | APT | Advanced Persistent Threat |
 | ARP | Address Resolution Protocol |
 | ASLR | Address Space Layout Randomization |
+| ASM | Attack Surface Management |
 | ASPX | Active Server Page Extended |
 | ASR | Attack Surface Reduction |
 | ASVS | Application Security Verification System |
