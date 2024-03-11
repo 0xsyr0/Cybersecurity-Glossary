@@ -331,6 +331,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | OIDC | Open ID Connect |
 | OID | Object Identifier |
 | OOB | Out-of-Band |
+| OPtH | Overpass-the-Hash |
 | OSCP | Offensive Security Certified Professional |
 | OSINT | Open Source Intelligence Tools |
 | OSPF | Open Shortest Path First |
@@ -508,6 +509,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | WDM | Wavelength-Division Multiplexing |
 | WEP | Wired Equivalent Privacy |
 | WinRM | Windows Remote Management |
+| WMI | Windows Management Instrumentation |
 | WMIC | Windows Management + Instrumentation Command-Line |
 | WOFF | Web Open Font Format |
 | WPA2 | Wi-Fi Protected Access 2 |
