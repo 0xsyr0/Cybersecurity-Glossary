@@ -73,6 +73,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CIA | Confidentiality, Integrity, Availability |
 | CI/CD | Continuous Integration / Continuous Delivery |
 | CIFS | Common Internet File System |
+| CL | Content-Length |
 | CLM | Constrained Language Mode |
 | CMMI | Mellon Capability Maturity Model |
 | CNCF | Cloud Native Computing Foundation |
@@ -468,6 +469,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | TAN | Transaction Authentication Number |
 | TAXII | Trusted Automated Exchange of Intelligence |
 | TCSEC | Trusted Computer System Evalutation Criteria |
+| TE | Transfer-Encoding |
 | TEAP | Tunnel Extensible Authentication Protocol |
 | TEE | Trusted Execution Environment |
 | TELNET | Teletype Network |
