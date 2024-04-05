@@ -458,6 +458,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SSOT | Single Source of Truth |
 | SSPR | Self-Service Password Reset |
 | SSRF | Server-Side Request Forgery |
+| SSSD | System Security Services Daemon |
 | SSTF | Scroll to Text Fragment |
 | SSTI | Server-Side Template Injection |
 | STAS | Sophos Transparent Authentication Suite |
