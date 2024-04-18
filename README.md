@@ -134,6 +134,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DNS | Domain Name System |
 | DNSSEC | Domain Name System Security Extensions |
 | DOCSIS | Data Over Cable Service Interface Specification |
+| DOH | DNS over HTTPS |
 | DOM | Document Object Model |
 | DOT | DNS over TLS |
 | DPAPI | Data Protection Application Programming Interface |
