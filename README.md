@@ -516,6 +516,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | WMI | Windows Management Instrumentation |
 | WMIC | Windows Management + Instrumentation Command-Line |
 | WOFF | Web Open Font Format |
+| WORM | Write Once, Read Many |
 | WPA2 | Wi-Fi Protected Access 2 |
 | WPAD | Web Proxy Autodiscovery Protocol |
 | WPA | Wi-Fi Protected Access |
