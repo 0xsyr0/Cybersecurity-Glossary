@@ -288,6 +288,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | MAC | Mandatory Access Control |
 | MAC | Medium Access Control |
 | MAC | Message Authentication Code |
+| MD | Message Digest |
 | mDNS | Multicast DNS |
 | MDR | Managed Detection and Response |
 | MEAN | MongoDB, Express.js, AngularJS, Node.js |
