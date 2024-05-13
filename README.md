@@ -306,6 +306,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | MTLS | Mutual TLS |
 | NAK | Negative Acknowledgement |
 | NBNS | NetBIOS Name Server |
+| NBT-NS | NetBIOS Name Service |
 | NCSC | National Cyber Security Centre |
 | NDA | Non-Disclosure Agreement |
 | NDR | Network Detection and Response |
