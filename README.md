@@ -232,6 +232,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | IAM | Identity Access Management |
 | IAVM | Information Assurance Vulnerbaility Alert |
 | iBGP | Internal Border Gateway Protocol |
+| IBN | Intent-Based Networking |
 | ICMP | Internet Control Message Protocol |
 | IDN | International Domain Name |
 | IDOR | Insecure Direct Object Reference |
