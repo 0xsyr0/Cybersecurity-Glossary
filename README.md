@@ -261,6 +261,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ISAMKP | Internet Security Association and Key Management Protocol |
 | IS-IS | Intermediate System to Intermediate System |
 | ISO | International Organization for Standardization |
+| JEA | Just Enough Administration |
 | JS | JavaScript |
 | JSON | JavaScript Object Notation |
 | JSP | Java Server Pages |
