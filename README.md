@@ -274,6 +274,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | LFI | Local File Inclusion |
 | LIFO | Last In, First Out |
 | LINQ | Language-Integrated Query |
+| LKM | Loadable Kernel Module |
 | LLC | Logical Link Layer |
 | LLM | Large Language Model |
 | LLMNR | Link-Local Multicast Name Resolution |
