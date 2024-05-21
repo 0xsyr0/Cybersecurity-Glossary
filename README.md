@@ -517,6 +517,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | WASM | Web Assembly |
 | WAT | Web Assembly Text Format |
 | WCD | Web Cache Deception |
+| WDAC | Windows Defender Application Control |
 | WDM | Wavelength-Division Multiplexing |
 | WEP | Wired Equivalent Privacy |
 | WinRM | Windows Remote Management |
