@@ -368,6 +368,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | POC | Phone Operation Center |
 | POP | Post Office Protocol |
 | POSIX | Portable Operating System Interface |
+| PPL | Protected Process Light |
 | PQC | Post Quantum Cryptography |
 | ProgID | Programmatic ID |
 | PR | Privileges Required |
