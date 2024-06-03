@@ -488,6 +488,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | TI | Threat Intelligence |
 | TIBER-EU | Threat Intelligence-Based Ethical Red-Teaming |
 | TLD | Top-Level Domain |
+| TLP | Traffic Light Protocol |
 | TLS | Transport Layer Security |
 | TOS | Terms of Service |
 | TOTP | Time-Bases One-Time Password |
