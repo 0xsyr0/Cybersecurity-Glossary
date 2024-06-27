@@ -348,6 +348,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | OSWE | Offensive Security Web Expert |
 | OVAL | Open Vulnerability and Assessment Framework |
 | OWASP | Open Web Application Security Project |
+| OXID | Object Exporter Identifier |
 | PAM | Pluggable Authentication Module |
 | PAM | Privileged Access Management |
 | PAP | Password Authentication Protocol |
