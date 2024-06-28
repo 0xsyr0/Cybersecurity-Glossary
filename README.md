@@ -98,6 +98,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CSRSS | Client Server Runtime Process |
 | CTA | Czberroam Transparent Authentication |
 | CTAP | Client to Authenticator Protocol |
+| CTEM | Continuous Threat Exposure Management |
 | CTI | Cyber Threat Intelligence |
 | CU | Content Update |
 | CVE | Common Vulnerabilities and Exposures |
@@ -387,6 +388,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | RBL | Realt-Time Blackhole List |
 | RBL | Return Black List |
 | RBP | Register Base Pointer |
+| RBVM | Risk-Based Vulnerability Management |
 | RBX | Register "b" extended |
 | RC4 | Rivest Cipher 4 |
 | RCX | Register "c" extended |
