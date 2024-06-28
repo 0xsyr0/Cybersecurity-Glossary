@@ -80,7 +80,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CN | Change Notice |
 | COFF | Common Object File Format |
 | COLO | Co-Location |
-| COM | Computer Object Model |
+| COM | Component Object Model |
 | CONOPS | Concept of Operations |
 | CORS | Cross-Origin Resource Sharing |
 | CPRS | Cross Origin Resource Sharing |
@@ -141,6 +141,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DPAPI | Data Protection Application Programming Interface |
 | DRDoS | DNS Reflection Denial of Service |
 | DREAD | Damage, Reproducibility, Exploitability, Affected Users, Discoverability |
+| DRS | Directory Replication Service |
+| DRSAPI | Directory Replication Service Remote Protocol |
 | DSA | Digital Signature Algorithm |
 | DSCP | Differntiated Services Code Point |
 | DSP | Digital Signal Procesor |
@@ -350,6 +352,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | OVAL | Open Vulnerability and Assessment Framework |
 | OWASP | Open Web Application Security Project |
 | OXID | Object Exporter Identifier |
+| PAC | Privileged Account Certificate |
 | PAM | Pluggable Authentication Module |
 | PAM | Privileged Access Management |
 | PAP | Password Authentication Protocol |
@@ -516,6 +519,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | VOC | Video Operation Center |
 | VoLTE | Voice over Long-Term Evolution |
 | VPN | Virtual Private Network |
+| VSS | Volume Shadow Copy |
 | WAN | Wide Area Network |
 | WAP | Web Application Protection |
 | WASM | Web Assembly |
@@ -525,6 +529,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | WDM | Wavelength-Division Multiplexing |
 | WEP | Wired Equivalent Privacy |
 | WinRM | Windows Remote Management |
+| WinRS | Windows Remote Shell |
 | WMI | Windows Management Instrumentation |
 | WMIC | Windows Management + Instrumentation Command-Line |
 | WOFF | Web Open Font Format |
