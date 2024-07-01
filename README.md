@@ -16,7 +16,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ACLE | Account Life Cycle Events |
 | ACME | Automated Certificate Management Environment |
 | ACPI | Advanced Configuration and Power Interface |
-| ADDS | Active Directory Domain Service |
+| AD DS | Active Directory Domain Service |
 | AEP | ATT&CK Emulation Plans |
 | AES | Advanced Encryption Standard |
 | AH | Authentication Header |
@@ -333,6 +333,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | NoSQL | Not only SQL |
 | NoTW | Mark-of-the-Web |
 | NSX | Full-Stack Network & Security Virtuakization |
+| NTDS.DIT | New Technology Directory Services Directory Information Tree |
 | NTFS | New Technology File System |
 | NTLM | New Technology Lan Manager |
 | NX | Non-Executable Stack |
