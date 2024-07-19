@@ -184,6 +184,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ESP | Extended Stack Pointer |
 | ETW | Event Tracing for Windows |
 | FAANG | Facebook, Apple, Amazon, Netflix, Google |
+| FAST | Flexible Authentication Secure Tunneling |
 | FIB | Forward Information Base |
 | FIDO | Fast Identity Online |
 | FIFO | First In, First Out |
