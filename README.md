@@ -431,6 +431,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SCEP | Simple Certificate Enrollment Protocol |
 | SCM | Service Control Manager |
 | SCTP | Stream Control Transmission Protocol |
+| SD | Security Descriptor |
 | SDDL | Security Descriptor Definition Language |
 | SDLC | Software Development Lifecycle |
 | SDL | Security Development Lifecycle |
