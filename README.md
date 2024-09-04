@@ -20,6 +20,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | AEP | ATT&CK Emulation Plans |
 | AES | Advanced Encryption Standard |
 | AH | Authentication Header |
+| AitM | Adversary in the Middle |
 | AMQP | Advanced Message Query Protocol |
 | AMSI | Antimalware Scan Interface |
 | ANSI | American National Standards Institute |
