@@ -32,7 +32,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ASM | Attack Surface Management |
 | ASPX | Active Server Page Extended |
 | ASR | Attack Surface Reduction |
-| ASVS | Application Security Verification System |
+| ASVS | Application Security Verification Standard |
 | ATM | Asynchronous Transfer Mode |
 | ATT&CK | Adversarial Tactics, Techniques, and Common Knowledge |
 | ATT | App Tracking Transparency |
