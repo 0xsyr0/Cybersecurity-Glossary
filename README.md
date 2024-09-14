@@ -10,12 +10,11 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | --- | --- |
 | 3LOD | Three Lines of Defense |
 | AAA | Authentication, Authorization, Accounting |
-| A | Availability |
-| AC | Attack Complexity |
-| ACL | Access Control List |
 | ACLE | Account Life Cycle Events |
+| ACL | Access Control List |
 | ACME | Automated Certificate Management Environment |
 | ACPI | Advanced Configuration and Power Interface |
+| AC | Attack Complexity |
 | AD DS | Active Directory Domain Service |
 | AEP | ATT&CK Emulation Plans |
 | AES | Advanced Encryption Standard |
@@ -24,8 +23,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | AMQP | Advanced Message Query Protocol |
 | AMSI | Antimalware Scan Interface |
 | ANSI | American National Standards Institute |
-| API | Application Programming Interface |
 | APIPA | Automatic Pricate IP Addressing |
+| API | Application Programming Interface |
 | APT | Advanced Packaging Tool |
 | APT | Advanced Persistent Threat |
 | ARP | Address Resolution Protocol |
@@ -35,13 +34,14 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ASR | Attack Surface Reduction |
 | ASVS | Application Security Verification System |
 | ATM | Asynchronous Transfer Mode |
-| ATT | App Tracking Transparency |
 | ATT&CK | Adversarial Tactics, Techniques, and Common Knowledge |
+| ATT | App Tracking Transparency |
 | AuthPF | Authentication Packet Filter |
 | AV | Antivirus |
 | AV | Attack Vector |
 | AWL | App White Listing |
 | AXFR | DNS Zone Transfer / DNS Query Type |
+| A | Availability |
 | BEC | Business Email Compromise |
 | BFP | Berkeley Packet Filter |
 | BGP | Border Gateway Protocol |
@@ -58,10 +58,9 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CAPTCHA | Completely Automated Public Turing Test to tell Computers and Humans appart |
 | CAR | Cyber Analytics Repository |
 | CASB | Cloud Access Security Broker |
+| CBC-MAC | Cipher Block Chaining Message Authentication Code |
 | CBC | cypher Block Chaining |
-| CBC-MAC | Cipher Block Chaining Message Authentication Code | 
 | CBSP | Cloud-Based Security Provider |
-| C | Confidentiality |
 | ccTLD | Country Code Top-Level Domain |
 | CDC | Cyber Defense Center |
 | CDN | Content Delivery Network |
@@ -74,8 +73,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CIA | Confidentiality, Integrity, Availability |
 | CI/CD | Continuous Integration / Continuous Delivery |
 | CIFS | Common Internet File System |
-| CL | Content-Length |
 | CLM | Constrained Language Mode |
+| CL | Content-Length |
 | CMMI | Mellon Capability Maturity Model |
 | CNCF | Cloud Native Computing Foundation |
 | CN | Change Notice |
@@ -93,12 +92,12 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CSD | Client-Side Desync |
 | CSIRT | Computer Security Incident Response Team |
 | CSMA/CD | Carrier Sense Multiple Access/Collision Detection |
-| CSP | Content Security Policy |
 | CSPM | Cloud Security Posture Management |
+| CSP | Content Security Policy |
 | CSRF | Client-Side Request Forgery |
 | CSRSS | Client Server Runtime Process |
-| CTA | Czberroam Transparent Authentication |
 | CTAP | Client to Authenticator Protocol |
+| CTA | Czberroam Transparent Authentication |
 | CTEM | Continuous Threat Exposure Management |
 | CTI | Cyber Threat Intelligence |
 | CU | Content Update |
@@ -106,10 +105,11 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CVRF | Common Vulnerability Reporting Framework |
 | CVSS | Common Vulnerability Scoring System |
 | CWE | Common Weakness Enumeration |
+| C | Confidentiality |
 | D3FEND | Detection, Denial, and Disruption Framework Empowering Network Defense |
 | DAAS | Data, Assets, Applications and Services |
-| DAC | Discretionary Access Control |
 | DACL | Discretionary Access Control List |
+| DAC | Discretionary Access Control |
 | DAD | Destruction, Alteration, Disclosure |
 | DAPP | Decentralized Applications |
 | DCIM | Data Center Infrasctructure Management |
@@ -123,8 +123,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DFD | Data Flow Diagram |
 | DFIR | Digital Forensics Incident Response |
 | DHCP | Dynamic Host Configuration Protocol |
-| DI | Dependency Injection |
 | DIG | Domain Information Groper |
+| DI | Dependency Injection |
 | DKIM | DomainKeys Identified Mail |
 | DLP | Data Loss Prevention |
 | DLR | Dynamic Language Runtime |
@@ -133,8 +133,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DNF | Dandified YUM |
 | DNSBL | Domain Name System-Based Blackhole List |
 | DNSCAA | DNS Certification Authority Authorization |
-| DNS | Domain Name System |
 | DNSSEC | Domain Name System Security Extensions |
+| DNS | Domain Name System |
 | DOCSIS | Data Over Cable Service Interface Specification |
 | DOH | DNS over HTTPS |
 | DOM | Document Object Model |
@@ -142,18 +142,17 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DPAPI | Data Protection Application Programming Interface |
 | DRDoS | DNS Reflection Denial of Service |
 | DREAD | Damage, Reproducibility, Exploitability, Affected Users, Discoverability |
-| DRS | Directory Replication Service |
 | DRSAPI | Directory Replication Service Remote Protocol |
+| DRS | Directory Replication Service |
 | DSA | Digital Signature Algorithm |
 | DSCP | Differntiated Services Code Point |
 | DSP | Digital Signal Procesor |
 | DTD | Document Type Definition |
 | DTMF | Dual Tome Multi Frequency |
 | E2EE | End-to-End Email Encryption |
-| EAP-AKA | EAP Authentication and Key Agreement |
 | EAP-AKA' | EAP Authentication and Key Agreement Prime |
+| EAP-AKA | EAP Authentication and Key Agreement |
 | EAP-EKE | EAP Encrypted Key Exchange |
-| EAP | Extensible Authentication Protocol |
 | EAP-FAST | EAP Flexble Authentication via Secure Tunneling |
 | EAP-GTC | EAP Generic Token Card |
 | EAP-IKEv2 | EAP Internet Key Exchange v2 |
@@ -163,14 +162,15 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | EAP-SIM | EAP Subscriber Identity Module |
 | EAP-TLS | EAP Transport Layer Security |
 | EAP-TTLS | EAP Tunneled Transport Layer Security |
+| EAP | Extensible Authentication Protocol |
 | EAR | Execution After Redirect |
 | eBGP | External Border Gateway Protocol |
 | EBP | Extended Base Pointer |
 | ECC | Elliptic Curve Cryptography |
 | ECDH | Elliptic Curve Diffie-Hellmann |
 | ECDSA | Elliptic Curve Digitial Signature Algorithm |
-| ECP | Encryption Control Protocol |
 | eCPPTv2 | eLearnSecurity Certified Professional Penetration Tester |
+| ECP | Encryption Control Protocol |
 | EDR | Endpoint Detection and Response |
 | EDTR | Endpoint Detection and Threat Response |
 | EIGRP |  Enhanced Interior Gateway Routing Protocol |
@@ -197,8 +197,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | FPM | FastCGI Process Manager |
 | FTTB | Fiber to the Building |
 | FTTC/K | Fiber to the Curb / Kerb |
-| FTTD | Fiber to the Desktop |
 | FTTDP | Fiber to the Distribution Point |
+| FTTD | Fiber to the Desktop |
 | FTTE/Z | Fiber to the Enclosure / Zone |
 | FTTF | Fiber to the Frontage |
 | FTTH | Fiber to the Home |
@@ -213,8 +213,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | GDPR | General Data Protection Regulation |
 | GMSA | Group Managed Service Accounts |
 | GOT | Global Offset Table |
-| GPO | Group Policy Object |
 | GPON | Gigabit-Capable Passive Optical Networks |
+| GPO | Group Policy Object |
 | GPP | Group Policy Preferences |
 | GRC | Governance, Risk Management and Compliance |
 | GRE | Generic Routing Encapsulation |
@@ -246,7 +246,6 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | IFS | Internal Field Separator |
 | IGMP | Internet Group Management Protocol |
 | IGRP | Interior Gateway Routing |
-| I | Integrity |
 | IKE | Internet Key Exchange |
 | IMAP | Internet Message Access Protocol |
 | IMDS | Instance Metadata Service Version |
@@ -258,18 +257,19 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | IPAM | IP Address Management |
 | IPC | Inter-Process Communication |
 | IPFIX | Internet Protocol Flow Information Export |
-| IP | Internet Protocol |
 | IPSEC | Internet Protocol Security |
 | IPS | Intrusion Prevention System |
+| IP | Internet Protocol |
 | IRDP | ICMP Router Discovery Protocol |
+| IS-IS | Intermediate System to Intermediate System |
 | ISAC | Information Sharing and Analysis Center |
 | ISAMKP | Internet Security Association and Key Management Protocol |
-| IS-IS | Intermediate System to Intermediate System |
 | ISO | International Organization for Standardization |
+| I | Integrity |
 | JEA | Just Enough Administration |
-| JS | JavaScript |
 | JSON | JavaScript Object Notation |
 | JSP | Java Server Pages |
+| JS | JavaScript |
 | JWKS | JSON Web Key Set |
 | KASLR | Kernel Address Space Layout Randomization |
 | KDC | Key Distribution Center |
@@ -282,23 +282,23 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | LINQ | Language-Integrated Query |
 | LKM | Loadable Kernel Module |
 | LLC | Logical Link Layer |
-| LLM | Large Language Model |
 | LLMNR | Link-Local Multicast Name Resolution |
+| LLM | Large Language Model |
 | LOC | Logistic Operation Center |
 | LORAWAN | Long Range Wide Area Network |
 | LOTL | Living of the Land |
 | LPD | Line Printer Daemon |
 | LQL | Lucene Query Language |
-| LSA | Local Security Authority |
 | LSASS | Local Security Authority Subsystem Service |
+| LSA | Local Security Authority |
 | LXC | Linux Container |
 | LXD | Linux Daemon |
 | MAC | Mandatory Access Control |
 | MAC | Medium Access Control |
 | MAC | Message Authentication Code |
-| MD | Message Digest |
 | mDNS | Multicast DNS |
 | MDR | Managed Detection and Response |
+| MD | Message Digest |
 | MEAN | MongoDB, Express.js, AngularJS, Node.js |
 | MFA | Multi-Faktor Authentication |
 | MIB | Management Information Base |
@@ -306,12 +306,12 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | MOK | Machine Owner Key |
 | MPLS | Multiprotocol Label Switching |
 | MQTT | Message Queue Telemetry Transport Protocol |
-| MSHTA | Microsoft HTML Application |
 | MS-NRPC | Microsoft NetLogon Remote Protocol |
-| MSS | Maximum Segment Size |
+| MSHTA | Microsoft HTML Application |
 | MSSP | Managed Security Service Provider |
-| MTA | Mail Transfer Agent |
+| MSS | Maximum Segment Size |
 | MTASTS | Mail Transfer Agent-Strict Transport Security |
+| MTA | Mail Transfer Agent |
 | MTLS | Mutual TLS |
 | NAK | Negative Acknowledgement |
 | NBNS | NetBIOS Name Server |
@@ -366,10 +366,10 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | PEAP | Protected Extensible Authentication Protocol |
 | PEB | Process Environment Block |
 | PEM | Privacy Enhanced Mail |
-| PI | Process Instrumentation |
 | PIE | Position Independent Executable |
 | PII | Personally Identifiable Information |
 | PIM | Privileged Identity Management |
+| PI | Process Instrumentation |
 | PKCS | Public-Key Cryptography Standard |
 | PKI | Public-Key Infrastructure |
 | PNAC | Port-Based Network Access Control |
@@ -388,6 +388,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | QCR | Quantum Computer Resistant |
 | QEMU | Quick Emulator |
 | QUIC | Quicik UDP Internet Connections |
+| R&D | Research and Development |
 | RAX | Register "a" extended |
 | RBAC | Role Based Access Control |
 | RBCD | Resource Based Constrained Delegation |
@@ -401,7 +402,6 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | RDI | Register Destination Index |
 | RDNS | REverse Domain Name System |
 | RDP | Responsible Disclosure Policy |
-| R&D | Research and Development |
 | RDX | Register "d" extended |
 | RELRO | Relocation Read-Only |
 | REST | Representional State Transfer |
@@ -420,37 +420,38 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | RTCO | Red Team Certified Operator |
 | RTP | Real-Time Transport Protocol |
 | RX | Receiving |
+| S-SDLC | Secure Software Development Lifecycle |
+| S3 | Simple Storage Service |
 | SAML | Security Assertion Markup Language |
 | SAM | Security Accounts Manager |
-| SAN | Subject Alternative Name |
-| SA | Security Associations |
-| SAS | Secure Attention Sequence |
 | SASL | Simple Authentication and Security Layer |
 | SAST | Static Application Security Testing |
+| SAS | Secure Attention Sequence |
+| SA | Security Associations |
 | SCD | Source Code Disclosure |
 | SCEP | Simple Certificate Enrollment Protocol |
 | SCM | Service Control Manager |
 | SCTP | Stream Control Transmission Protocol |
-| SD | Security Descriptor |
+| SD-WAN | Software-Defined Wide Area Network |
 | SDDL | Security Descriptor Definition Language |
 | SDLC | Software Development Lifecycle |
 | SDL | Security Development Lifecycle |
-| SDP | Session Description Protocol |
-| SD-WAN | Software-Defined Wide Area Network |
-| SEO | Search Engine Optimization |
+| SDO | Statement of Applicability |
+| SD | Security Descriptor |
+| SE | Search Engine Optimization |
 | SHIM | First Stage Bootloader |
 | SID | Security Identifier |
 | SIEM | Security Information and Event Management |
-| SIKE | Supersingular Isogeny Key Encapsualtion |
+| SIKE | Supersingular Isogeny Key Encapsulation |
 | SIM | Subscriber Identity Module |
-| SIP | Session Initiaton Protocol |
+| SIP | Session Initiation Protocol |
 | SKEL | Skeleton |
 | SLAAC | Stateless Address Auto-Configuration |
 | SMB | Server Message Block |
 | SMIME | Secure Multipurpose Internet Mail Extension |
 | SMSS | Session Manager Subsystem |
 | SMTP | Simple Mail Transfer Protocol |
-| SOAR | Security Orchestration, Automation and Response |
+| SOAR | Security Orchestration, Automation, and Response |
 | SOA | Statement of Applicability |
 | SOC | Security Operations Center |
 | SoC | System on Chips |
@@ -464,16 +465,14 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SPX | Secure PDF Exchange |
 | SQLI | Server-Query Language Injection |
 | SQL | Structured Query Language |
-| S | Scope |
-| S-SDLC | Secure Software Development Lifecycle |
 | SRI | Subresource Integrity |
 | SSDT | Secondary System Descriptor Tables |
 | SSE | Server-Side Encryption |
 | SSI | Server Side Includes |
 | SSL | Secure Socket Layer |
 | SSN | Syscall Service Numbers |
-| SSO | Single Sign-On |
 | SSOT | Single Source of Truth |
+| SSO | Single Sign-On |
 | SSPR | Self-Service Password Reset |
 | SSRF | Server-Side Request Forgery |
 | SSSD | System Security Services Daemon |
@@ -485,18 +484,19 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | STIX | Structured Threat Information Expression |
 | STRIDE | Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege |
 | STS | Security Token Service |
+| S | Scope |
 | TAN | Transaction Authentication Number |
 | TAXII | Trusted Automated Exchange of Intelligence |
 | TCSEC | Trusted Computer System Evalutation Criteria |
-| TE | Transfer-Encoding |
 | TEAP | Tunnel Extensible Authentication Protocol |
 | TEE | Trusted Execution Environment |
 | TELNET | Teletype Network |
+| TE | Transfer-Encoding |
 | TGS | Ticket Granting Service |
 | TGT | Ticket Granting Ticket |
 | THA | Target Hardware Address |
-| TI | Threat Intelligence |
 | TIBER-EU | Threat Intelligence-Based Ethical Red-Teaming |
+| TI | Threat Intelligence |
 | TLD | Top-Level Domain |
 | TLP | Traffic Light Protocol |
 | TLS | Transport Layer Security |
@@ -534,8 +534,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | WEP | Wired Equivalent Privacy |
 | WinRM | Windows Remote Management |
 | WinRS | Windows Remote Shell |
-| WMI | Windows Management Instrumentation |
 | WMIC | Windows Management + Instrumentation Command-Line |
+| WMI | Windows Management Instrumentation |
 | WOFF | Web Open Font Format |
 | WORM | Write Once, Read Many |
 | WPA2 | Wi-Fi Protected Access 2 |
