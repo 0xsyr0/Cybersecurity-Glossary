@@ -466,9 +466,11 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SQLI | Server-Query Language Injection |
 | SQL | Structured Query Language |
 | SRI | Subresource Integrity |
+| SSDLC | Secure Software Development Life Cycle |
 | SSDT | Secondary System Descriptor Tables |
 | SSE | Server-Side Encryption |
 | SSI | Server Side Includes |
+| SSIS | SQL Server Integration Services |
 | SSL | Secure Socket Layer |
 | SSN | Syscall Service Numbers |
 | SSOT | Single Source of Truth |
@@ -499,6 +501,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | TI | Threat Intelligence |
 | TLD | Top-Level Domain |
 | TLP | Traffic Light Protocol |
+| TLPT | Thread Led Penetration Testing |
 | TLS | Transport Layer Security |
 | TOS | Terms of Service |
 | TOTP | Time-Bases One-Time Password |
