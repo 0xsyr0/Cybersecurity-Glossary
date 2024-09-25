@@ -223,6 +223,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | gTLD | Generic Top-Level Domain |
 | HBCI | Home Banking Computer Interface |
 | HFC | Hybrid Fiber-Coaxial |
+| HID | Human Interface Device |
 | HIDS | Host-Based Intrusion Detection System |
 | HIPS | Host-based Intrusion Prevention System |
 | HMAC | Hash-Based Message Authentication Code |
