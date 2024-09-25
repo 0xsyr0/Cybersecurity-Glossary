@@ -310,6 +310,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | MSHTA | Microsoft HTML Application |
 | MSSP | Managed Security Service Provider |
 | MSS | Maximum Segment Size |
+| MSTG | Mobile Security Testing Guide |
 | MTASTS | Mail Transfer Agent-Strict Transport Security |
 | MTA | Mail Transfer Agent |
 | MTLS | Mutual TLS |
@@ -434,7 +435,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SCTP | Stream Control Transmission Protocol |
 | SD-WAN | Software-Defined Wide Area Network |
 | SDDL | Security Descriptor Definition Language |
-| SDLC | Software Development Lifecycle |
+| SDLC | Software Development Life Cycle |
 | SDL | Security Development Lifecycle |
 | SDO | Statement of Applicability |
 | SD | Security Descriptor |
@@ -545,6 +546,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | WPAD | Web Proxy Autodiscovery Protocol |
 | WPA | Wi-Fi Protected Access |
 | WSH | Windows Script Host |
+| WSTG | Web Security Testing Guide |
 | XDP | Express Data Path |
 | XDR | Extended Detection and Response |
 | XHR | XML HTTP Request |
