@@ -93,6 +93,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CSIRT | Computer Security Incident Response Team |
 | CSMA/CD | Carrier Sense Multiple Access/Collision Detection |
 | CSPM | Cloud Security Posture Management |
+| CSPT | Client-Side Path Traversal |
 | CSP | Content Security Policy |
 | CSRF | Client-Side Request Forgery |
 | CSRSS | Client Server Runtime Process |
