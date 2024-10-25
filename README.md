@@ -347,6 +347,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | OIDC | Open ID Connect |
 | OID | Object Identifier |
 | OOB | Out-of-Band |
+| OPSEC | Operations Security |
 | OPtH | Overpass-the-Hash |
 | OSCP | Offensive Security Certified Professional |
 | OSINT | Open Source Intelligence Tools |
