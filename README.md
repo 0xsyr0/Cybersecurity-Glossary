@@ -187,6 +187,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ETW | Event Tracing for Windows |
 | FAANG | Facebook, Apple, Amazon, Netflix, Google |
 | FAST | Flexible Authentication Secure Tunneling |
+| FDE | Full Disk Encryption |
 | FIB | Forward Information Base |
 | FIDO | Fast Identity Online |
 | FIFO | First In, First Out |
