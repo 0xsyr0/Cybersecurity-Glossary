@@ -10,6 +10,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | --- | --- |
 | 3LOD | Three Lines of Defense |
 | AAA | Authentication, Authorization, Accounting |
+| ACE | Access Control Entry |
 | ACLE | Account Life Cycle Events |
 | ACL | Access Control List |
 | ACME | Automated Certificate Management Environment |
