@@ -261,6 +261,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | IPAM | IP Address Management |
 | IPC | Inter-Process Communication |
 | IPFIX | Internet Protocol Flow Information Export |
+| IPMI | Intelligent Platform Management Interface |
 | IPSEC | Internet Protocol Security |
 | IPS | Intrusion Prevention System |
 | IP | Internet Protocol |
