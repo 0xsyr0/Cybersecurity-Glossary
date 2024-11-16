@@ -426,6 +426,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | RSP | Register Stack Pointer |
 | RTCO | Red Team Certified Operator |
 | RTP | Real-Time Transport Protocol |
+| RTSP | Real Time Streaming Protocol |
 | RX | Receiving |
 | S-SDLC | Secure Software Development Lifecycle |
 | S3 | Simple Storage Service |
