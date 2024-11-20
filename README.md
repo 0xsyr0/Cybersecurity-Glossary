@@ -9,6 +9,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | Abbreviation | Meaning |
 | --- | --- |
 | 3LOD | Three Lines of Defense |
+| A | Availability |
 | AAA | Authentication, Authorization, Accounting |
 | ACE | Access Control Entry |
 | ACLE | Account Life Cycle Events |
@@ -42,8 +43,9 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | AV | Attack Vector |
 | AWL | App White Listing |
 | AXFR | DNS Zone Transfer / DNS Query Type |
-| A | Availability |
+| AXS | API Cross-Site Scripting |
 | BEC | Business Email Compromise |
+| BFLA | Broken Function Level Authorization |
 | BFP | Berkeley Packet Filter |
 | BGP | Border Gateway Protocol |
 | BIOC | Behavioral Indicator of Compromise |
