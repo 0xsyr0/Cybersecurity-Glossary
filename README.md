@@ -227,6 +227,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | GRPC | Google Remote Procedure Calls |
 | GSSAPI | Generic Security Services Application Program Interface |
 | gTLD | Generic Top-Level Domain |
+| GUID | Globally Unique Identifier |
 | HBCI | Home Banking Computer Interface |
 | HFC | Hybrid Fiber-Coaxial |
 | HID | Human Interface Device |
