@@ -51,6 +51,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | BIOC | Behavioral Indicator of Compromise |
 | BITS | Background Intelligence Transfer Service |
 | BLOB | Binary Large Object |
+| BOLA | Broken Object Level Authorization |
 | BSS | Base Service Set |
 | BYOL | Bring Your Own Land |
 | BYOVD | Bring Your Own Vulnerable Driver |
