@@ -90,6 +90,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CPRS | Cross Origin Resource Sharing |
 | CRC | Code Ready Containers |
 | CRI | Container Runtime Interface |
+| CRL | Certificate Revokation List |
 | CRLF | Carriage Return Line Feed |
 | CRUD | Create, Read, Update, Delete |
 | CSAF | Common Security Advisory Framework |
