@@ -518,6 +518,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | TLP | Traffic Light Protocol |
 | TLPT | Thread Led Penetration Testing |
 | TLS | Transport Layer Security |
+| TLV | Type-length-value |
 | TOS | Terms of Service |
 | TOTP | Time-Bases One-Time Password |
 | TPM | Trusted Platform Module |
