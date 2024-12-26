@@ -25,6 +25,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | AMQP | Advanced Message Query Protocol |
 | AMSI | Antimalware Scan Interface |
 | ANSI | American National Standards Institute |
+| APAKE | Augmented Password Authenticated Key Exchange |
 | APIPA | Automatic Pricate IP Addressing |
 | API | Application Programming Interface |
 | APT | Advanced Packaging Tool |
@@ -183,6 +184,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | EIP | Extended Instruction Pointer |
 | eJPT | eLearnSecurity Junior Penetration Tester |
 | ELF | Executable and Linkable Format |
+| EKE | Encrypted Key Exchange |
 | ELK | Elasticsearch, Logstash, Kibana |
 | EM | Exposure Management |
 | ESAE | Enhanced Security Administrative Environment |
@@ -280,7 +282,9 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | JSON | JavaScript Object Notation |
 | JSP | Java Server Pages |
 | JS | JavaScript |
+| JWE | JSON Web Encryption |
 | JWKS | JSON Web Key Set |
+| JWT | JSON Web Token |
 | KASLR | Kernel Address Space Layout Randomization |
 | KDC | Key Distribution Center |
 | KQL | Kibana Query Language |
@@ -368,6 +372,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | OWASP | Open Web Application Security Project |
 | OXID | Object Exporter Identifier |
 | PAC | Privileged Account Certificate |
+| PAKE | Password Authenticated Key Exchange |
 | PAM | Pluggable Authentication Module |
 | PAM | Privileged Access Management |
 | PAP | Password Authentication Protocol |
