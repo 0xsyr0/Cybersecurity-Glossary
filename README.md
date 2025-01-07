@@ -406,6 +406,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | QEMU | Quick Emulator |
 | QUIC | Quicik UDP Internet Connections |
 | R&D | Research and Development |
+| RACI | Responsible, Accountable, Consulted and Informed |
 | RAX | Register "a" extended |
 | RBAC | Role Based Access Control |
 | RBCD | Resource Based Constrained Delegation |
