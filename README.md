@@ -495,6 +495,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SSN | Syscall Service Numbers |
 | SSOT | Single Source of Truth |
 | SSO | Single Sign-On |
+| SSPM | SaaS Security Posture Management |
 | SSPR | Self-Service Password Reset |
 | SSRF | Server-Side Request Forgery |
 | SSSD | System Security Services Daemon |
