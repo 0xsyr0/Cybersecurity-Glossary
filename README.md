@@ -154,6 +154,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DSA | Digital Signature Algorithm |
 | DSCP | Differntiated Services Code Point |
 | DSP | Digital Signal Procesor |
+| DSS | Data Security Standard |
 | DTD | Document Type Definition |
 | DTMF | Dual Tome Multi Frequency |
 | E2EE | End-to-End Email Encryption |
