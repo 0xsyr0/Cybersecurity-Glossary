@@ -289,6 +289,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | KASLR | Kernel Address Space Layout Randomization |
 | KDC | Key Distribution Center |
 | KQL | Kibana Query Language |
+| KQL | Kusto Query Language |
 | LAPS | Local Administrator Password Solution |
 | LDAP | Lightweight Directory Access Protocol |
 | LEAP | Lightweight Extensible Authentication |
