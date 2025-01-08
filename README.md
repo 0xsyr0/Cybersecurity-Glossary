@@ -254,6 +254,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | IDN | International Domain Name |
 | IDOR | Insecure Direct Object Reference |
 | IDS | Intrusion Detection System |
+| IDTR | Identity Threat Detection & Response |
 | IEC | International Electrotechnical Commission |
 | IFS | Internal Field Separator |
 | IGMP | Internet Group Management Protocol |
