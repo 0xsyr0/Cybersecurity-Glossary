@@ -290,6 +290,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | JWT | JSON Web Token |
 | KASLR | Kernel Address Space Layout Randomization |
 | KDC | Key Distribution Center |
+| KPP | Kernel Patch Protection |
 | KQL | Kibana Query Language |
 | KQL | Kusto Query Language |
 | LAPS | Local Administrator Password Solution |
