@@ -129,6 +129,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DES | Data Encryption Standard |
 | DFD | Data Flow Diagram |
 | DFIR | Digital Forensics Incident Response |
+| DGA | Domain Generation Algorithm |
 | DHCP | Dynamic Host Configuration Protocol |
 | DIG | Domain Information Groper |
 | DI | Dependency Injection |
@@ -435,6 +436,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ROP | Return Oriented Programming |
 | RPC | Remote Procedure Calls |
 | RPKI | Resource Public Key Infrastructure |
+| RRDNS | Round Robin Domain Name System |
 | RSA | Rivest-Shamir-Adlemann Algorithm |
 | RSI | Register Source Index |
 | RSP | Register Stack Pointer |
