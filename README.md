@@ -361,7 +361,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | NX | Non-Executable Stack |
 | OCSP | Online Certificate Status Protocol |
 | OGNL | Object-Graph Navigation Language |
-| OIDC | Open ID Connect |
+| OIDC | OpenID Connect |
 | OID | Object Identifier |
 | OOB | Out-of-Band |
 | OPSEC | Operations Security |
