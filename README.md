@@ -518,6 +518,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | TAN | Transaction Authentication Number |
 | TAXII | Trusted Automated Exchange of Intelligence |
 | TCSEC | Trusted Computer System Evalutation Criteria |
+| TDIR | Threat Detection, Investigation, and Response |
 | TEAP | Tunnel Extensible Authentication Protocol |
 | TEE | Trusted Execution Environment |
 | TELNET | Teletype Network |
