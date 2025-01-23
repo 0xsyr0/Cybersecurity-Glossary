@@ -119,6 +119,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DAC | Discretionary Access Control |
 | DAD | Destruction, Alteration, Disclosure |
 | DAPP | Decentralized Applications |
+| DAST | Dynamic Application Security Testing |
 | DCIM | Data Center Infrasctructure Management |
 | DCOM | Distributed Component Object Model |
 | DDNS / DynDNS | Dynamic Domain Name System |
@@ -454,6 +455,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SAST | Static Application Security Testing |
 | SAS | Secure Attention Sequence |
 | SA | Security Associations |
+| SCA | Software Composition Analysis |
 | SCD | Source Code Disclosure |
 | SCEP | Simple Certificate Enrollment Protocol |
 | SCM | Service Control Manager |
