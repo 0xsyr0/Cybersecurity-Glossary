@@ -587,6 +587,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | XSS | Cross-Site Scripting |
 | XST | Cross-Site Tracing |
 | XXE | XML External Entity |
+| ZTN | Zero Trust Network |
+| ZTNA | Zero Trust Network Access |
 | YAML | YAML Ain't Markup Language |
 | YUM | Yellowdog Updater, Modified |
 | ZTA | Zero Trust Approach |
