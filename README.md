@@ -81,6 +81,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CLM | Constrained Language Mode |
 | CL | Content-Length |
 | CMMI | Mellon Capability Maturity Model |
+| CNAPP | Cloud-Native Application Protection Platform |
 | CNCF | Cloud Native Computing Foundation |
 | CN | Change Notice |
 | COFF | Common Object File Format |
