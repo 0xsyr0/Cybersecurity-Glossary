@@ -269,6 +269,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | IMSI | International Mobile Subscriber Identity |
 | IOA | Indicator of Attack |
 | IOC | Indicator of Compromise |
+| IOCTL | Device Input and Output Controls |
 | IOMMU | Input-Output Memory Management Unit |
 | IPAM | IP Address Management |
 | IPC | Inter-Process Communication |
