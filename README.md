@@ -457,6 +457,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SAST | Static Application Security Testing |
 | SAS | Secure Attention Sequence |
 | SA | Security Associations |
+| SBOM | Software Bill of Materials |
 | SCA | Software Composition Analysis |
 | SCD | Source Code Disclosure |
 | SCEP | Simple Certificate Enrollment Protocol |
