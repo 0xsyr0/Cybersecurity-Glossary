@@ -197,6 +197,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ESP | Extended Stack Pointer |
 | ETW | Event Tracing for Windows |
 | FAANG | Facebook, Apple, Amazon, Netflix, Google |
+| FAIR | Factor Analysis of Information Risk |
 | FAST | Flexible Authentication Secure Tunneling |
 | FDE | Full Disk Encryption |
 | FIB | Forward Information Base |
