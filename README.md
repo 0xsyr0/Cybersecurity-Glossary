@@ -563,6 +563,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | VICI | Versatile IKE Configuration Interface |
 | VOC | Video Operation Center |
 | VoLTE | Voice over Long-Term Evolution |
+| VPC | Virtual Private Cloud |
 | VPN | Virtual Private Network |
 | VSS | Volume Shadow Copy |
 | WAN | Wide Area Network |
