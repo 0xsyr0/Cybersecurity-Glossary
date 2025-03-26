@@ -320,6 +320,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | MAC | Mandatory Access Control |
 | MAC | Medium Access Control |
 | MAC | Message Authentication Code |
+| MCP | Model Context Protocol |
 | mDNS | Multicast DNS |
 | MDR | Managed Detection and Response |
 | MD | Message Digest |
