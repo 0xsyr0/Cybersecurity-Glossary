@@ -208,6 +208,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | FinTS | Financial Transaction Services |
 | FIPS | Federal Information Processing Standards |
 | FLoC | Federated Learning of Cohorts |
+| FOCI | Family of Client IDs |
 | FOSS | Free and Open Source Software |
 | FPM | FastCGI Process Manager |
 | FTTB | Fiber to the Building |
