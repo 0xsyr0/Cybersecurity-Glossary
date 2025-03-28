@@ -505,6 +505,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SSDLC | Secure Software Development Life Cycle |
 | SSDT | Secondary System Descriptor Tables |
 | SSE | Server-Side Encryption |
+| SSG | Static Site Generation |
 | SSI | Server Side Includes |
 | SSIS | SQL Server Integration Services |
 | SSL | Secure Socket Layer |
@@ -513,6 +514,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SSO | Single Sign-On |
 | SSPM | SaaS Security Posture Management |
 | SSPR | Self-Service Password Reset |
+| SSR | Server-Side Rendering |
 | SSRF | Server-Side Request Forgery |
 | SSSD | System Security Services Daemon |
 | SSTF | Scroll to Text Fragment |
