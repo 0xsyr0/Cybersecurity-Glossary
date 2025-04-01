@@ -22,6 +22,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | AES | Advanced Encryption Standard |
 | AH | Authentication Header |
 | AitM | Adversary in the Middle |
+| ALB | Amazon Load Balancer |
+| AMI | Amazon Machine Image |
 | AMQP | Advanced Message Query Protocol |
 | AMSI | Antimalware Scan Interface |
 | ANSI | American National Standards Institute |
