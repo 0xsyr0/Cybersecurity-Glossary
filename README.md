@@ -14,6 +14,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ACE | Access Control Entry |
 | ACLE | Account Life Cycle Events |
 | ACL | Access Control List |
+| ACM | AWS Certificate Manager |
 | ACME | Automated Certificate Management Environment |
 | ACPI | Advanced Configuration and Power Interface |
 | AC | Attack Complexity |
@@ -48,6 +49,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | AWL | App White Listing |
 | AXFR | DNS Zone Transfer / DNS Query Type |
 | AXS | API Cross-Site Scripting |
+| AZ | Availability Zone |
 | BEC | Business Email Compromise |
 | BFLA | Broken Function Level Authorization |
 | BFP | Berkeley Packet Filter |
@@ -293,6 +295,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | JSON | JavaScript Object Notation |
 | JSP | Java Server Pages |
 | JS | JavaScript |
+| JSR | JavaScript Registry |
 | JWE | JSON Web Encryption |
 | JWKS | JSON Web Key Set |
 | JWT | JSON Web Token |
@@ -468,6 +471,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SCD | Source Code Disclosure |
 | SCEP | Simple Certificate Enrollment Protocol |
 | SCM | Service Control Manager |
+| SCP | Service Control Policy |
 | SCTP | Stream Control Transmission Protocol |
 | SD-WAN | Software-Defined Wide Area Network |
 | SDDL | Security Descriptor Definition Language |
