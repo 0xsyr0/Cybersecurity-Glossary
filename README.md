@@ -19,6 +19,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ACPI | Advanced Configuration and Power Interface |
 | AC | Attack Complexity |
 | AD DS | Active Directory Domain Service |
+| ADR | Architecture Design Review |
 | AEP | ATT&CK Emulation Plans |
 | AES | Advanced Encryption Standard |
 | AH | Authentication Header |
@@ -508,6 +509,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SQLI | Server-Query Language Injection |
 | SQL | Structured Query Language |
 | SRI | Subresource Integrity |
+| SRS | Software Requirement Specification |
 | SSDLC | Secure Software Development Life Cycle |
 | SSDT | Secondary System Descriptor Tables |
 | SSE | Server-Side Encryption |
