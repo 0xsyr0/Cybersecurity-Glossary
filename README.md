@@ -183,6 +183,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | EAR | Execution After Redirect |
 | eBGP | External Border Gateway Protocol |
 | EBP | Extended Base Pointer |
+| EBS | Elastic Block Storage |
+| EC2 | Elastic Compute Cloud |
 | ECC | Elliptic Curve Cryptography |
 | ECDH | Elliptic Curve Diffie-Hellmann |
 | ECDSA | Elliptic Curve Digitial Signature Algorithm |
@@ -190,9 +192,11 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ECP | Encryption Control Protocol |
 | EDR | Endpoint Detection and Response |
 | EDTR | Endpoint Detection and Threat Response |
+| EFS | Elastic File System |
 | EIGRP |  Enhanced Interior Gateway Routing Protocol |
 | EIP | Extended Instruction Pointer |
 | eJPT | eLearnSecurity Junior Penetration Tester |
+| ELB | Elastic Load Balancing |
 | ELF | Executable and Linkable Format |
 | EKE | Encrypted Key Exchange |
 | ELK | Elasticsearch, Logstash, Kibana |
@@ -439,6 +443,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | RDI | Register Destination Index |
 | RDNS | REverse Domain Name System |
 | RDP | Responsible Disclosure Policy |
+| RDS | Relational Database Service |
 | RDX | Register "d" extended |
 | RELRO | Relocation Read-Only |
 | REST | Representional State Transfer |
