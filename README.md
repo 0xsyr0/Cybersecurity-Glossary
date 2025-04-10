@@ -206,6 +206,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ESI | Edge Side Includes |
 | ESP | Encapsulating Security Payload |
 | ESP | Extended Stack Pointer |
+| ETL | Extract, Transform, Load |
 | ETW | Event Tracing for Windows |
 | FAANG | Facebook, Apple, Amazon, Netflix, Google |
 | FAIR | Factor Analysis of Information Risk |
