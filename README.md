@@ -352,6 +352,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | MTASTS | Mail Transfer Agent-Strict Transport Security |
 | MTA | Mail Transfer Agent |
 | MTLS | Mutual TLS |
+| MTTP | Meantime to Production |
+| MTTR | Meantime to Recover |
 | NAK | Negative Acknowledgement |
 | NBNS | NetBIOS Name Server |
 | NBT-NS | NetBIOS Name Service |
