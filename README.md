@@ -88,6 +88,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CLM | Constrained Language Mode |
 | CL | Content-Length |
 | CMMI | Mellon Capability Maturity Model |
+| CNA | CVE Numbering Authority |
 | CNAPP | Cloud-Native Application Protection Platform |
 | CNCF | Cloud Native Computing Foundation |
 | CN | Change Notice |
@@ -96,6 +97,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | COM | Component Object Model |
 | CONOPS | Concept of Operations |
 | CORS | Cross-Origin Resource Sharing |
+| CPE | Common Platform Enumeration |
 | CPRS | Cross Origin Resource Sharing |
 | CRC | Code Ready Containers |
 | CRI | Container Runtime Interface |
