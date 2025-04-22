@@ -472,7 +472,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | RX | Receiving |
 | S-SDLC | Secure Software Development Lifecycle |
 | S3 | Simple Storage Service |
-| S4U | Service for User |
+| S4U | Service for User | 
+| SACL | System Access Control List |
 | SAML | Security Assertion Markup Language |
 | SAM | Security Accounts Manager |
 | SASL | Simple Authentication and Security Layer |
