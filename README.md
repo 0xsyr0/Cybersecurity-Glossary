@@ -412,6 +412,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | PEAP | Protected Extensible Authentication Protocol |
 | PEB | Process Environment Block |
 | PEM | Privacy Enhanced Mail |
+| PFX | Personal Information Exchange |
 | PIE | Position Independent Executable |
 | PII | Personally Identifiable Information |
 | PIM | Privileged Identity Management |
