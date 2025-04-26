@@ -438,6 +438,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | QUIC | Quicik UDP Internet Connections |
 | R&D | Research and Development |
 | RACI | Responsible, Accountable, Consulted and Informed |
+| RAG | Retrieval-Augmented Generation |
 | RAX | Register "a" extended |
 | RBAC | Role Based Access Control |
 | RBCD | Resource Based Constrained Delegation |
