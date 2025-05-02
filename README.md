@@ -11,6 +11,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | 3LOD | Three Lines of Defense |
 | A | Availability |
 | AAA | Authentication, Authorization, Accounting |
+| ABAC | Attribute-Based Access Control |
 | ACA | Azure Container App |
 | ACE | Access Control Entry |
 | ACLE | Account Life Cycle Events |
