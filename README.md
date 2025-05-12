@@ -389,6 +389,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | OGNL | Object-Graph Navigation Language |
 | OIDC | OpenID Connect |
 | OID | Object Identifier |
+| ONVIF | Open Network Video Interface Forum |
 | OOB | Out-of-Band |
 | OPSEC | Operations Security |
 | OPtH | Overpass-the-Hash |
@@ -431,6 +432,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | PR | Privileges Required |
 | PSAD | Port Scan Attack Detector |
 | PSA | Public Service Announcement |
+| PSIA | Physical Security Interoperability Alliance |
 | PTA | Permission-to-Attack |
 | PTK | Pairwise Transient Key |
 | PTK | Penetration Testing Kit |
@@ -472,7 +474,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | RSP | Register Stack Pointer |
 | RTCO | Red Team Certified Operator |
 | RTP | Real-Time Transport Protocol |
-| RTSP | Real Time Streaming Protocol |
+| RTSP | Real-Time Streaming Protocol |
 | RX | Receiving |
 | S-SDLC | Secure Software Development Lifecycle |
 | S3 | Simple Storage Service |
