@@ -36,6 +36,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | API | Application Programming Interface |
 | APT | Advanced Packaging Tool |
 | APT | Advanced Persistent Threat |
+| ARO | Annual Rate of Occurrence |
 | ARP | Address Resolution Protocol |
 | ASLR | Address Space Layout Randomization |
 | ASM | Attack Surface Management |
