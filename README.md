@@ -534,6 +534,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SSE | Server-Side Encryption |
 | SSG | Static Site Generation |
 | SSI | Server Side Includes |
+| SSI | Software Security Initiatives |
 | SSIS | SQL Server Integration Services |
 | SSL | Secure Socket Layer |
 | SSN | Syscall Service Numbers |
