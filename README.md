@@ -445,6 +445,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | R&D | Research and Development |
 | RACI | Responsible, Accountable, Consulted and Informed |
 | RAG | Retrieval-Augmented Generation |
+| RASP | Runtime Application Self Protection |
 | RAX | Register "a" extended |
 | RBAC | Role Based Access Control |
 | RBCD | Resource Based Constrained Delegation |
