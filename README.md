@@ -268,6 +268,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | HTA | HTML Application |
 | HTML | Hypertext Markup Language |
 | IAM | Identity Access Management |
+| IAST | Interactive Application Security Testing |
 | IAVM | Information Assurance Vulnerbaility Alert |
 | iBGP | Internal Border Gateway Protocol |
 | IBN | Intent-Based Networking |
