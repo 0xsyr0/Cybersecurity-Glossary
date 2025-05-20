@@ -62,6 +62,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | BITS | Background Intelligence Transfer Service |
 | BLOB | Binary Large Object |
 | BOLA | Broken Object Level Authorization |
+| BSIMM | Building Security In Maturity Model |
 | BSS | Base Service Set |
 | BYOL | Bring Your Own Land |
 | BYOVD | Bring Your Own Vulnerable Driver |
@@ -486,6 +487,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SACL | System Access Control List |
 | SAML | Security Assertion Markup Language |
 | SAM | Security Accounts Manager |
+| SAMM | Software Assurance Maturity Model |
 | SASL | Simple Authentication and Security Layer |
 | SAST | Static Application Security Testing |
 | SAS | Secure Attention Sequence |
