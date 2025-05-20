@@ -196,12 +196,14 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ECDSA | Elliptic Curve Digitial Signature Algorithm |
 | eCPPTv2 | eLearnSecurity Certified Professional Penetration Tester |
 | ECP | Encryption Control Protocol |
+| ECS | Elastic Container Service |
 | EDR | Endpoint Detection and Response |
 | EDTR | Endpoint Detection and Threat Response |
 | EFS | Elastic File System |
 | EIGRP |  Enhanced Interior Gateway Routing Protocol |
 | EIP | Extended Instruction Pointer |
 | eJPT | eLearnSecurity Junior Penetration Tester |
+| EKS | Elastik Kubernetes Service |
 | ELB | Elastic Load Balancing |
 | ELF | Executable and Linkable Format |
 | EKE | Encrypted Key Exchange |
