@@ -520,6 +520,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SMIME | Secure Multipurpose Internet Mail Extension |
 | SMSS | Session Manager Subsystem |
 | SMTP | Simple Mail Transfer Protocol |
+| SNS | Amazon Simple Notification Service |
 | SOAP | Simple Object Access Protocol |
 | SOAR | Security Orchestration, Automation, and Response |
 | SOA | Statement of Applicability |
