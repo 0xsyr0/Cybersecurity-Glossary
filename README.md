@@ -410,6 +410,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | OWASP | Open Web Application Security Project |
 | OXID | Object Exporter Identifier |
 | PAC | Privileged Account Certificate |
+| PAC | Privileged Attribute Certificate |
 | PAKE | Password Authenticated Key Exchange |
 | PAM | Pluggable Authentication Module |
 | PAM | Privileged Access Management |
