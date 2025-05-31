@@ -152,6 +152,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DLR | Dynamic Language Runtime |
 | DMARC | Domain-Based Message Authentication Reporting & Conformance |
 | dMSA | Delegated Managed Service Account |
+| dMSA | Device Managed Service Account |
 | DMZ | Demilitarized Zone |
 | DNF | Dandified YUM |
 | DNSBL | Domain Name System-Based Blackhole List |
@@ -246,7 +247,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | GCM | Galois Counter Mode |
 | GCP | Google Cloud Platform |
 | GDPR | General Data Protection Regulation |
-| GMSA | Group Managed Service Accounts |
+| gMSA | Group Managed Service Accounts |
 | GOT | Global Offset Table |
 | GPON | Gigabit-Capable Passive Optical Networks |
 | GPO | Group Policy Object |
@@ -520,6 +521,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SLAAC | Stateless Address Auto-Configuration |
 | SMB | Server Message Block |
 | SMIME | Secure Multipurpose Internet Mail Extension |
+| sMSA | Standalone Managed Service Account |
 | SMSS | Session Manager Subsystem |
 | SMTP | Simple Mail Transfer Protocol |
 | SNS | Amazon Simple Notification Service |
