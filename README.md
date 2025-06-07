@@ -569,6 +569,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | STIX | Structured Threat Information Expression |
 | STRIDE | Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege |
 | STS | Security Token Service |
+| SxS | Side-by-Side |
 | S | Scope |
 | TAN | Transaction Authentication Number |
 | TAXII | Trusted Automated Exchange of Intelligence |
