@@ -166,7 +166,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DPAPI | Data Protection Application Programming Interface |
 | DRDoS | DNS Reflection Denial of Service |
 | DREAD | Damage, Reproducibility, Exploitability, Affected Users, Discoverability |
-| DRSAPI | Directory Replication Service Remote Protocol |
+| DRSUAPI | Directory Replication Service Universal API |
 | DRS | Directory Replication Service |
 | DSA | Digital Signature Algorithm |
 | DSCP | Differntiated Services Code Point |
@@ -354,6 +354,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | MOK | Machine Owner Key |
 | MPLS | Multiprotocol Label Switching |
 | MQTT | Message Queue Telemetry Transport Protocol |
+| MS-DRSR | Microsoft Directory Replication Service Remote Protocol |
 | MS-NRPC | Microsoft NetLogon Remote Protocol |
 | MSHTA | Microsoft HTML Application |
 | MSSP | Managed Security Service Provider |
