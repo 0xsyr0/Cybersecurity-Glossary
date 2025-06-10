@@ -191,6 +191,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | EAR | Execution After Redirect |
 | eBGP | External Border Gateway Protocol |
 | EBP | Extended Base Pointer |
+| EBPF | Extended Berkeley Packet Filter |
 | EBS | Elastic Block Storage |
 | EC2 | Elastic Compute Cloud |
 | ECC | Elliptic Curve Cryptography |
