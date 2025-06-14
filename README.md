@@ -495,6 +495,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | S3 | Simple Storage Service |
 | S4U | Service for User | 
 | SACL | System Access Control List |
+| SAIF | Secure AI Framework |
 | SAML | Security Assertion Markup Language |
 | SAM | Security Accounts Manager |
 | SAMM | Software Assurance Maturity Model |
