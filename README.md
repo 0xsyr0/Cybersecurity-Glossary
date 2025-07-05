@@ -162,6 +162,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DOCSIS | Data Over Cable Service Interface Specification |
 | DOH | DNS over HTTPS |
 | DOM | Document Object Model |
+| DORA | Digital Operational Resilience Act |
 | DOT | DNS over TLS |
 | DPAPI | Data Protection Application Programming Interface |
 | DRDoS | DNS Reflection Denial of Service |
