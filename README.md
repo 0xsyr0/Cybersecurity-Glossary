@@ -334,6 +334,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | LLMNR | Link-Local Multicast Name Resolution |
 | LLM | Large Language Model |
 | LOC | Logistic Operation Center |
+| LOI | Living-Off-Identity |
 | LORAWAN | Long Range Wide Area Network |
 | LOTL | Living of the Land |
 | LPD | Line Printer Daemon |
