@@ -143,6 +143,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DES | Data Encryption Standard |
 | DFD | Data Flow Diagram |
 | DFIR | Digital Forensics Incident Response |
+| DFR | Dynamic Function Resolution |
 | DGA | Domain Generation Algorithm |
 | DHCP | Dynamic Host Configuration Protocol |
 | DIG | Domain Information Groper |
