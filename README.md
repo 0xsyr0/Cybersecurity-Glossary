@@ -45,6 +45,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | AST | Abstract Syntax Tree |
 | ASVS | Application Security Verification Standard |
 | ATM | Asynchronous Transfer Mode |
+| ATS | Applicant Tracking System |
 | ATT&CK | Adversarial Tactics, Techniques, and Common Knowledge |
 | ATT | App Tracking Transparency |
 | AuthPF | Authentication Packet Filter |
