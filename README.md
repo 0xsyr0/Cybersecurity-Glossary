@@ -533,6 +533,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | sMSA | Standalone Managed Service Account |
 | SMSS | Session Manager Subsystem |
 | SMTP | Simple Mail Transfer Protocol |
+| SNI | Server Name Identification |
 | SNS | Amazon Simple Notification Service |
 | SOAP | Simple Object Access Protocol |
 | SOAR | Security Orchestration, Automation, and Response |
