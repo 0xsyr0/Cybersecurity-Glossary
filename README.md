@@ -486,6 +486,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | RNDC | Remote Name Daemon Control |
 | ROE | Rules of Engagement |
 | ROP | Return Oriented Programming |
+| ROSI | Return on Security Investment |
 | RPC | Remote Procedure Calls |
 | RPKI | Resource Public Key Infrastructure |
 | RRDNS | Round Robin Domain Name System |
