@@ -174,6 +174,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DRS | Directory Replication Service |
 | DSA | Digital Signature Algorithm |
 | DSCP | Differntiated Services Code Point |
+| DSL | Domain Specific Language |
 | DSP | Digital Signal Procesor |
 | DSS | Data Security Standard |
 | DTD | Document Type Definition |
