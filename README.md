@@ -26,6 +26,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | AES | Advanced Encryption Standard |
 | AH | Authentication Header |
 | AitM | Adversary in the Middle |
+| AKS | Azure Kubernetes Service |
 | ALB | Amazon Load Balancer |
 | ALPN | Application-Layer Protocol Negotiation |
 | AMI | Amazon Machine Image |
