@@ -429,6 +429,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | PAM | Privileged Access Management |
 | PAP | Password Authentication Protocol |
 | PASTA | Process for Attack Simulation and Threat Analysis |
+| PEAK | Prepare, Execute, Act, Knowledge |
 | PBKDF1 | Password-Based Key Derivation Function 1 |
 | PBKDF2 | Password-Based Key Derivation Function 2 |
 | PCI | Payment Card Industry |
