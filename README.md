@@ -12,6 +12,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | A | Availability |
 | AAA | Authentication, Authorization, Accounting |
 | ABAC | Attribute-Based Access Control |
+| ABLE | Actor, Behavior, Location, Evidence |
 | ACA | Azure Container App |
 | ACE | Access Control Entry |
 | ACLE | Account Life Cycle Events |
@@ -334,6 +335,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | LDAP | Lightweight Directory Access Protocol |
 | LEAP | Lightweight Extensible Authentication |
 | LFI | Local File Inclusion |
+| LFO | Least Frequency of Occurrence |
 | LIFO | Last In, First Out |
 | LINQ | Language-Integrated Query |
 | LKM | Loadable Kernel Module |
