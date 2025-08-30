@@ -11,6 +11,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | 3LOD | Three Lines of Defense |
 | A | Availability |
 | AAA | Authentication, Authorization, Accounting |
+| AAD | Azure Active Directory |
 | ABAC | Attribute-Based Access Control |
 | ABLE | Actor, Behavior, Location, Evidence |
 | ACA | Azure Container App |
@@ -41,6 +42,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | APT | Advanced Persistent Threat |
 | ARO | Annual Rate of Occurrence |
 | ARP | Address Resolution Protocol |
+| ASC | Azure Security Center |
 | ASLR | Address Space Layout Randomization |
 | ASM | Attack Surface Management |
 | ASPX | Active Server Page Extended |
@@ -129,6 +131,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CVRF | Common Vulnerability Reporting Framework |
 | CVSS | Common Vulnerability Scoring System |
 | CWE | Common Weakness Enumeration |
+| CWP | Cloud Workload Protection |
 | C | Confidentiality |
 | D3FEND | Detection, Denial, and Disruption Framework Empowering Network Defense |
 | DAAS | Data, Assets, Applications and Services |
