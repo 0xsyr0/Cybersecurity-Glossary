@@ -272,6 +272,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | HIDS | Host-Based Intrusion Detection System |
 | HIPS | Host-based Intrusion Prevention System |
 | HMAC | Hash-Based Message Authentication Code |
+| HMM | Hunting Maturity Model |
 | HOTP | HMAC-Based One-Time Password |
 | HPC | High Performance Computing |
 | HQL | Hybernate Query Language |
