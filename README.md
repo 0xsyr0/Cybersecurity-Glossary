@@ -316,6 +316,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ISO | International Organization for Standardization |
 | I | Integrity |
 | JEA | Just Enough Administration |
+| JEA | Just Enough Access |
+| JIT | Just In Time |
 | JSON | JavaScript Object Notation |
 | JSP | Java Server Pages |
 | JS | JavaScript |
