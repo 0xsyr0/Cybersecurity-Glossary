@@ -387,6 +387,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | NAK | Negative Acknowledgement |
 | NBNS | NetBIOS Name Server |
 | NBT-NS | NetBIOS Name Service |
+| NCOE | National Cloud Operated Entity |
+| NCOE | National Cloud Operations and Engineering |
 | NCSC | National Cyber Security Centre |
 | NDA | Non-Disclosure Agreement |
 | NDR | Network Detection and Response |
