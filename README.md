@@ -86,6 +86,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CDC | Cyber Defense Center |
 | CDN | Content Delivery Network |
 | CDP | Certificate Distribution Point |
+| CDPA | Contractor Data Protection Agreement |
 | CEH | Certified Ethical Hacker |
 | CERT | Computer Emergency Response Team |
 | CFG | Control Flow Guard |
@@ -172,6 +173,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DOM | Document Object Model |
 | DORA | Digital Operational Resilience Act |
 | DOT | DNS over TLS |
+| DPA | Data Processing Agreement |
 | DPAPI | Data Protection Application Programming Interface |
 | DRDoS | DNS Reflection Denial of Service |
 | DREAD | Damage, Reproducibility, Exploitability, Affected Users, Discoverability |
