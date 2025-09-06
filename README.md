@@ -614,6 +614,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | TLPT | Thread Led Penetration Testing |
 | TLS | Transport Layer Security |
 | TLV | Type-Length-Value |
+| TOCTOU | Time Of Check To Time Of Use |
 | TOS | Terms of Service |
 | TOTP | Time-Bases One-Time Password |
 | TPM | Trusted Platform Module |
