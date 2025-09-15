@@ -86,7 +86,6 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | CDC | Cyber Defense Center |
 | CDN | Content Delivery Network |
 | CDP | Certificate Distribution Point |
-| CDPA | Contractor Data Protection Agreement |
 | CEH | Certified Ethical Hacker |
 | CERT | Computer Emergency Response Team |
 | CFG | Control Flow Guard |
@@ -389,8 +388,6 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | NAK | Negative Acknowledgement |
 | NBNS | NetBIOS Name Server |
 | NBT-NS | NetBIOS Name Service |
-| NCOE | National Cloud Operated Entity |
-| NCOE | National Cloud Operations and Engineering |
 | NCSC | National Cyber Security Centre |
 | NDA | Non-Disclosure Agreement |
 | NDR | Network Detection and Response |
@@ -633,7 +630,6 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | USART | Universal Synchronous/Asynchronous Receiver-Transmitter |
 | UUID | Universally Unique Identifier |
 | VACM | View-Based Access Control Model |
-| VASM | Vulnerability & Attack Surface Management |
 | VBA | Visual Basic for Application |
 | VDP | Vulnerbaility Disclosure Program |
 | VICI | Versatile IKE Configuration Interface |
