@@ -76,6 +76,8 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | C3 | Custom Command and Control |
 | C4 | Customizable Command and Control Center |
 | CAM | Content Addressable Memory |
+| CAPE | Collect and Preserve Evidence |
+| CAPE | Config and Payload Extraction |
 | CAPTCHA | Completely Automated Public Turing Test to tell Computers and Humans appart |
 | CAR | Cyber Analytics Repository |
 | CASB | Cloud Access Security Broker |
