@@ -60,6 +60,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | AXFR | DNS Zone Transfer / DNS Query Type |
 | AXS | API Cross-Site Scripting |
 | AZ | Availability Zone |
+| BAS | Breach and Attack Simulation |
 | BEC | Business Email Compromise |
 | BFLA | Broken Function Level Authorization |
 | BFP | Berkeley Packet Filter |
