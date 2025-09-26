@@ -492,6 +492,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | RDS | Relational Database Service |
 | RDX | Register "d" extended |
 | RELRO | Relocation Read-Only |
+| REPL | Read-Evaluate-Print Loop |
 | REST | Representional State Transfer |
 | RFC | Request for Comments |
 | RFI | Remote File Inclusion |
