@@ -226,10 +226,12 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | EKE | Encrypted Key Exchange |
 | ELK | Elasticsearch, Logstash, Kibana |
 | EM | Exposure Management |
+| EPA | Extended Protection for Authentication |
 | ESAE | Enhanced Security Administrative Environment |
 | ESI | Edge Side Includes |
 | ESP | Encapsulating Security Payload |
 | ESP | Extended Stack Pointer |
+| ESS | Extended Session Security |
 | ETL | Extract, Transform, Load |
 | ETW | Event Tracing for Windows |
 | FAANG | Facebook, Apple, Amazon, Netflix, Google |
@@ -370,6 +372,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | MEAN | MongoDB, Express.js, AngularJS, Node.js |
 | MFA | Multi-Faktor Authentication |
 | MIB | Management Information Base |
+| MIC | 
 | MIME | Multipurpose Internet Mail Extensions |
 | MOK | Machine Owner Key |
 | MPLS | Multiprotocol Label Switching |
@@ -582,6 +585,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SSN | Syscall Service Numbers |
 | SSOT | Single Source of Truth |
 | SSO | Single Sign-On |
+| SSP | Security Service Provider |
 | SSPM | SaaS Security Posture Management |
 | SSPR | Self-Service Password Reset |
 | SSR | Server-Side Rendering |
