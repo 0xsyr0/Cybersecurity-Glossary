@@ -23,6 +23,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ACPI | Advanced Configuration and Power Interface |
 | AC | Attack Complexity |
 | AD DS | Active Directory Domain Service |
+| ADFS | Active Directory Federated Services |
 | ADR | Architecture Design Review |
 | AEP | ATT&CK Emulation Plans |
 | AES | Advanced Encryption Standard |
