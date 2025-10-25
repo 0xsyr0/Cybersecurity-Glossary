@@ -183,6 +183,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DRSUAPI | Directory Replication Service Universal API |
 | DRS | Directory Replication Service |
 | DSA | Digital Signature Algorithm |
+| DSC | Desired State Configuration |
 | DSCP | Differntiated Services Code Point |
 | DSL | Domain Specific Language |
 | DSP | Digital Signal Procesor |
