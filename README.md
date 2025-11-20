@@ -344,6 +344,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | KPP | Kernel Patch Protection |
 | KQL | Kibana Query Language |
 | KQL | Kusto Query Language |
+| KWARGS | Keyword Arguments |
 | LAPS | Local Administrator Password Solution |
 | LDAP | Lightweight Directory Access Protocol |
 | LEAP | Lightweight Extensible Authentication |
