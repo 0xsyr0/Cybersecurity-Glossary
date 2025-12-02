@@ -452,6 +452,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | PBKDF1 | Password-Based Key Derivation Function 1 |
 | PBKDF2 | Password-Based Key Derivation Function 2 |
 | PCI | Payment Card Industry |
+| PDO | PHP Data Objects |
 | PEAP-MSCHAPv2 | Protected Extensible Authentication Protocol MS-CHAPv2 |
 | PEAP | Protected Extensible Authentication Protocol |
 | PEB | Process Environment Block |
