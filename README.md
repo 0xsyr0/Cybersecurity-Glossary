@@ -373,6 +373,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | mDNS | Multicast DNS |
 | MDR | Managed Detection and Response |
 | MD | Message Digest |
+| MDLC | Malware Development Lifecycle |
 | MEAN | MongoDB, Express.js, AngularJS, Node.js |
 | MFA | Multi-Faktor Authentication |
 | MIB | Management Information Base |
