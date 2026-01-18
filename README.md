@@ -562,6 +562,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SMSS | Session Manager Subsystem |
 | SMTP | Simple Mail Transfer Protocol |
 | SNI | Server Name Identification |
+| SNMP | Simple Network Management Protocol |
 | SNS | Amazon Simple Notification Service |
 | SOAP | Simple Object Access Protocol |
 | SOAR | Security Orchestration, Automation, and Response |
@@ -586,6 +587,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SSG | Static Site Generation |
 | SSI | Server Side Includes |
 | SSI | Software Security Initiatives |
+| SSID | Service Set Identifier |
 | SSIS | SQL Server Integration Services |
 | SSL | Secure Socket Layer |
 | SSN | Syscall Service Numbers |
