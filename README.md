@@ -329,6 +329,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ISAMKP | Internet Security Association and Key Management Protocol |
 | ISO | International Organization for Standardization |
 | I | Integrity |
+| JAXB | Java Architecture for XML Binding |
 | JEA | Just Enough Administration |
 | JEA | Just Enough Access |
 | JIT | Just In Time |
@@ -391,6 +392,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | MTASTS | Mail Transfer Agent-Strict Transport Security |
 | MTA | Mail Transfer Agent |
 | MTLS | Mutual TLS |
+| MTOM | Message Transmission Optimization Mechanism |
 | MTTA | Mean Time to Acknowledge |
 | MTTD | Mean Time to Detect |
 | MTTP | Meantime to Production |
@@ -676,6 +678,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | XDP | Express Data Path |
 | XDR | Extended Detection and Response |
 | XHR | XML HTTP Request |
+| XOP | XML-binary Optimized Packaging |
 | XOR | Exclusive or |
 | XSLT | Extensible Stylesheet Language Transformation |
 | XSS | Cross-Site Scripting |
