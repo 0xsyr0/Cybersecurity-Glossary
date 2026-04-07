@@ -25,6 +25,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | AD DS | Active Directory Domain Service |
 | ADFS | Active Directory Federated Services |
 | ADR | Architecture Design Review |
+| ADSI | Active Directory Service Interfaces |
 | AEP | ATT&CK Emulation Plans |
 | AES | Advanced Encryption Standard |
 | AH | Authentication Header |
