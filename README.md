@@ -300,6 +300,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | iBGP | Internal Border Gateway Protocol |
 | IBN | Intent-Based Networking |
 | ICMP | Internet Control Message Protocol |
+| ICS | Industrial Control Systems |
 | IDN | International Domain Name |
 | IDOR | Insecure Direct Object Reference |
 | IDS | Intrusion Detection System |
@@ -433,6 +434,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | OID | Object Identifier |
 | ONVIF | Open Network Video Interface Forum |
 | OOB | Out-of-Band |
+| OPCUA | OPC Unified Architecture |
 | OPSEC | Operations Security |
 | OPtH | Overpass-the-Hash |
 | OSCP | Offensive Security Certified Professional |
@@ -539,6 +541,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SA | Security Associations |
 | SBOM | Software Bill of Materials |
 | SCA | Software Composition Analysis |
+| SCADA | Supervisory Control and Data Acquisition |
 | SCD | Source Code Disclosure |
 | SCEP | Simple Certificate Enrollment Protocol |
 | SCM | Service Control Manager |
