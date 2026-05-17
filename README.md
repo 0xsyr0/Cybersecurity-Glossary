@@ -326,6 +326,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | IPS | Intrusion Prevention System |
 | IP | Internet Protocol |
 | IRDP | ICMP Router Discovery Protocol |
+| IRQL | Incident Response Query Language |
 | IS-IS | Intermediate System to Intermediate System |
 | ISAC | Information Sharing and Analysis Center |
 | ISAMKP | Internet Security Association and Key Management Protocol |
@@ -677,6 +678,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | WPA2 | Wi-Fi Protected Access 2 |
 | WPAD | Web Proxy Autodiscovery Protocol |
 | WPA | Wi-Fi Protected Access |
+| WSGI | Web Server Gateway Interface |
 | WSH | Windows Script Host |
 | WSTG | Web Security Testing Guide |
 | XDP | Express Data Path |
