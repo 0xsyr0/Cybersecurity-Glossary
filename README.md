@@ -21,6 +21,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ACM | AWS Certificate Manager |
 | ACME | Automated Certificate Management Environment |
 | ACPI | Advanced Configuration and Power Interface |
+| ACRE | ATT&CK Coverage Ratio Evaluation |
 | AC | Attack Complexity |
 | AD DS | Active Directory Domain Service |
 | ADFS | Active Directory Federated Services |
