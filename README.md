@@ -146,6 +146,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | DAD | Destruction, Alteration, Disclosure |
 | DAPP | Decentralized Applications |
 | DAST | Dynamic Application Security Testing |
+| DBCP | Database Connection Pooling |
 | DCIM | Data Center Infrasctructure Management |
 | DCOM | Distributed Component Object Model |
 | DDNS / DynDNS | Dynamic Domain Name System |
@@ -516,6 +517,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | RID | Relative Identifier |
 | RIP | Routing Information Protocol |
 | RNDC | Remote Name Daemon Control |
+| RODC | Read-Only Domain Controller |
 | ROE | Rules of Engagement |
 | ROP | Return Oriented Programming |
 | ROSI | Return on Security Investment |
