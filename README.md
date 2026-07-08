@@ -431,6 +431,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | NTFS | New Technology File System |
 | NTLM | New Technology Lan Manager |
 | NX | Non-Executable Stack |
+| OCR | Optical Character Recognition |
 | OCSF | Open Cybersecurity Schema Framework |
 | OCSP | Online Certificate Status Protocol |
 | OGNL | Object-Graph Navigation Language |
