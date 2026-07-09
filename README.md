@@ -469,10 +469,11 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | PEB | Process Environment Block |
 | PEM | Privacy Enhanced Mail |
 | PFX | Personal Information Exchange |
+| PI | Process Instrumentation |
 | PIE | Position Independent Executable |
 | PII | Personally Identifiable Information |
 | PIM | Privileged Identity Management |
-| PI | Process Instrumentation |
+| PIR | Priority Intelligence Requirements |
 | PKCS | Public-Key Cryptography Standard |
 | PKI | Public-Key Infrastructure |
 | PNAC | Port-Based Network Access Control |
