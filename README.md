@@ -268,7 +268,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | FUD | Fully Undetectable |
 | GCM | Galois Counter Mode |
 | GCP | Google Cloud Platform |
-| GDID | Graphics Device Interface |
+| GDID | Global Device Identifier |
 | GDPR | General Data Protection Regulation |
 | gMSA | Group Managed Service Accounts |
 | GOT | Global Offset Table |
