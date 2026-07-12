@@ -474,6 +474,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | PII | Personally Identifiable Information |
 | PIM | Privileged Identity Management |
 | PIR | Priority Intelligence Requirements |
+| PJL | Print Job Language |
 | PKCS | Public-Key Cryptography Standard |
 | PKI | Public-Key Infrastructure |
 | PNAC | Port-Based Network Access Control |
