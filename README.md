@@ -608,6 +608,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SSOT | Single Source of Truth |
 | SSO | Single Sign-On |
 | SSP | Security Service Provider |
+| SSPI | Security Support Provider Interface |
 | SSPM | SaaS Security Posture Management |
 | SSPR | Self-Service Password Reset |
 | SSR | Server-Side Rendering |
