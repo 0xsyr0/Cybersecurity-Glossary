@@ -670,6 +670,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | VPC | Virtual Private Cloud |
 | VPN | Virtual Private Network |
 | VSS | Volume Shadow Copy |
+| WAC | Windows Admin Center |
 | WAN | Wide Area Network |
 | WAP | Web Application Protection |
 | WASM | Web Assembly |
