@@ -544,6 +544,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | SAML | Security Assertion Markup Language |
 | SAM | Security Accounts Manager |
 | SAMM | Software Assurance Maturity Model |
+| SAMR | Security Account Manager Remote Protocol |
 | SASL | Simple Authentication and Security Layer |
 | SAST | Static Application Security Testing |
 | SAS | Secure Attention Sequence |
