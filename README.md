@@ -46,6 +46,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | ARO | Annual Rate of Occurrence |
 | ARP | Address Resolution Protocol |
 | ASC | Azure Security Center |
+| ASIM | Advanced Security Information Model |
 | ASLR | Address Space Layout Randomization |
 | ASM | Attack Surface Management |
 | ASPX | Active Server Page Extended |
