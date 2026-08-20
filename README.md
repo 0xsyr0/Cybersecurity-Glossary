@@ -654,7 +654,7 @@ A summary of the most abbreviations I encountered so far. Feel free to contribut
 | TTP | Tactics, Techniques and Procedures |
 | TX | Transmitting |
 | UAF | Use-After-Free |
-| UEBA | User Entity and Behavior Analytics |
+| UEBA | User and Entity Behavior Analytics |
 | UIPI | User Interface Privilege Isolation |
 | UI | User Interaction |
 | UI | User Interface |
